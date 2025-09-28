@@ -131,7 +131,62 @@ A work in progress... dicovering the most recent developments in AI coding.
 - [Terminal-Bench](https://terminal-bench.ai) - A benchmark measuring the capabilities of AI agents in a terminal environment
 - [PR Arena](https://pr-arena.ai) - Software engineering agents head to head
 - [Multi-SWE-bench](https://multi-swe-bench.ai) - A Multilingual Benchmark for Issue Resolving
-- [SWE-DEV](https://swe-dev.ai) - Evaluating and Training Autonomous Feature-Driven Software Development  
+- [SWE-DEV](https://swe-dev.ai) - Evaluating and Training Autonomous Feature-Driven Software Development 
+
+***
+***
+
+## Coding Model Timeline (Foundation / Open-Weight / Frontier)
+
+Noteworthy releases, some entries may be updated model versions or model families.
+
+### September 2025
+- [Qwen3-Max-Instruct](https://qwen.ai) - Alibaba Cloud, the official release further elevates its capabilities — particularly in coding and agent performance, September 2025
+- [GPT‑5-Codex](https://openai.com/codex) - OpenAI, a version of GPT‑5 further optimized for agentic coding in Codex and trained with a focus on real-world software engineering work, September 2025
+- [Kimi K2-Instruct-0905](https://kimi.ai) - Moonshot AI, updated SOTA model with improved agentic and frontend capabilities and increased context length, September 2025
+
+### August 2025
+- [GPT-5](https://openai.com) - OpenAI, flagship model, August 2025
+- [GPT-5-mini](https://openai.com) - OpenAI, fast/cost efficient, August 2025
+- [GPT-5-nano](https://openai.com) - OpenAI, faster/cost efficient, August 2025
+- [Claude Opus 4.1](https://claude.ai) - Anthropic, a drop-in replacement for Opus 4, August 2025
+- [Mistral Medium 3.1](https://mistral.ai) - Mistral AI, aka Mistral-Medium-2508 - enterprise-grade model excels in coding tasks, August 2025
+- [Grok Code Fast 1](https://x.ai) - xAI, a speedy and economical reasoning model that excels at agentic coding, August 2025
+
+### July 2025
+- [Qwen3-Coder](https://qwen.ai) - Alibaba Cloud, agentic code model, July 2025
+- [Qwen3-Coder-Flash](https://qwen.ai) - Alibaba Cloud, streamlined non thinking agentic code model, July 2025
+- [Kimi K2](https://kimi.ai) - Moonshot AI, 1 T-param MoE, July 2025
+- [GLM-4.5](https://z.ai) - Z.ai, An open-source LLM designed for intelligent agents, July 2025
+- [Codestral 25.08](https://mistral.ai) - Mistral AI, code model for high-precision fill-in-the-middle (FIM) completion, July 2025
+- [Devstral Medium 2507](https://mistral.ai) - Mistral × All Hands AI, high-quality and cost-effective model, July 2025
+- [Devstral Small 1.1 2507](https://mistral.ai) - Mistral × All Hands AI, agentic model, July 2025
+- [Grok 4 Coding Mode](https://x.ai) - xAI, July 2025
+
+### June 2025
+- [Gemini 2.5 Pro](https://deepmind.google) - Google DeepMind, flagship model, June 2025
+- [Gemini 2.5 Flash](https://deepmind.google) - Google DeepMind, fast/cost efficient with thinking capabilities, June 2025
+
+### May 2025
+- [Claude Opus 4](https://claude.ai) - Anthropic, pushes the frontier in coding, agentic search, and creative writing, May 2025
+- [Claude Sonnet 4](https://claude.ai) - Anthropic, improves on Claude Sonnet 3.7 across a variety of areas, especially coding, May 2025
+- [DeepSeek-R1-0528](https://deepseek.com) - DeepSeek, OSS reasoning model, May 2025
+
+### April 2025
+- [o3](https://openai.com) - OpenAI, preview reasoning model, April 2025
+- [o4-mini](https://openai.com) - OpenAI, compact model, April 2025
+- [GPT-4.1](https://openai.com) - OpenAI, flagship model with 1M token context window, April 2025
+- [Llama 4 Maverick](https://meta.ai) - Meta, code-tuned model, April 2025
+- [Llama 4 Scout](https://meta.ai) - Meta, open-weight model, April 2025
+- [Mellum](https://jetbrains.com) - JetBrains, 4-B param OSS model, April 2025
+
+### March 2025
+- [DeepSeek-V3-0324](https://deepseek.com) - DeepSeek, improved V3 version, March 2025
+
+### February 2025
+- [Gemini 2.0 Flash](https://deepmind.google) - Google DeepMind, multimodal for high-volume high-frequency tasks, February 2025
+- [Claude 3.7 Sonnet](https://claude.ai) - Anthropic, first hybrid reasoning model and state-of-the art for coding, February 2025
+- [Grok 3](https://x.ai) - xAI, February 2025
 
 <br /><br />
 *** SOURCE: joylarkin/AI-Coding-Landscape - https://github.com/joylarkin/AI-Coding-Landscape
