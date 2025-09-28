@@ -15,7 +15,7 @@ July 2025,GLM-4.5,Z.ai,https://z.ai/blog/glm-4.5,An open-source LLM designed for
 July 2025,Codestral 25.08,Mistral AI,https://mistral.ai/news/codestral,code model for high-precision fill-in-the-middle (FIM) completion
 July 2025,Devstral Medium 2507,Mistral × All Hands AI,https://mistral.ai/news/devstral-2507,high-quality and cost-effective model
 July 2025,Devstral Small 1.1 2507,Mistral × All Hands AI,https://mistral.ai/news/devstral-2507,agentic model
-July 2025,Grok 4 Coding Mode,xAI,https://x.ai/grok,
+July 2025,Grok 4 Coding Mode,xAI,https://x.ai/grok,Grok 4 coding model
 June 2025,Gemini 2.5 Pro,Google DeepMind,https://deepmind.google/models/gemini/pro/,flagship model
 June 2025,Gemini 2.5 Flash,Google DeepMind,https://deepmind.google/models/gemini/pro/,fast/cost efficient with thinking capabilities
 May 2025,Claude Opus 4,Anthropic,https://www.anthropic.com/claude/opus,pushes the frontier in coding agentic search and creative writing
@@ -30,5 +30,5 @@ April 2025,Mellum,JetBrains,https://huggingface.co/JetBrains/Mellum-4b-base,4-B 
 March 2025,DeepSeek-V3-0324,DeepSeek,https://huggingface.co/deepseek-ai/DeepSeek-V3-0324,improved V3 version
 February 2025,Gemini 2.0 Flash,Google DeepMind,https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/,multimodal for high-volume high-frequency tasks
 February 2025,Claude 3.7 Sonnet,Anthropic,https://www.anthropic.com/news/claude-3-7-sonnet,first hybrid reasoning model and state-of-the art for coding
-February 2025,Grok 3,xAI,https://x.ai/grok,
+February 2025,Grok 3,xAI,https://x.ai/grok,Grok 3 coding model
 SOURCE, joylarkin/AI-Coding-Landscape,https://github.com/joylarkin/AI-Coding-Landscape,"The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more"
