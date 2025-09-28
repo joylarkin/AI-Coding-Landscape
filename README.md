@@ -1,8 +1,11 @@
-# AI Coding Landscape 
-The 2025 AI Coding Landscape - Coding models, agents, CLIs, IDEs, ai app makers, tooling, and more
+# AI Coding Landscape  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/ai-coding-landscape)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/ai-coding-landscape.svg)  
+The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more.  
 
 
 
+
+***
+***
 
 ## External AI Coding Tools & Platforms
 
