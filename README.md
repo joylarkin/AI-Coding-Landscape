@@ -131,4 +131,9 @@ A work in progress... dicovering the most recent developments in AI coding.
 - [Terminal-Bench](https://terminal-bench.ai) - A benchmark measuring the capabilities of AI agents in a terminal environment
 - [PR Arena](https://pr-arena.ai) - Software engineering agents head to head
 - [Multi-SWE-bench](https://multi-swe-bench.ai) - A Multilingual Benchmark for Issue Resolving
-- [SWE-DEV](https://swe-dev.ai) - Evaluating and Training Autonomous Feature-Driven Software Development
+- [SWE-DEV](https://swe-dev.ai) - Evaluating and Training Autonomous Feature-Driven Software Development  
+
+<br /><br />
+*** SOURCE: joylarkin/AI-Coding-Landscape - https://github.com/joylarkin/AI-Coding-Landscape
+
+
