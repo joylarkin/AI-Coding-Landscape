@@ -108,4 +108,4 @@ Coding Leaderboards,Terminal-Bench,https://terminal-bench.ai,A benchmark measuri
 Coding Leaderboards,PR Arena,https://pr-arena.ai,Software engineering agents head to head
 Coding Leaderboards,Multi-SWE-bench,https://multi-swe-bench.ai,A Multilingual Benchmark for Issue Resolving
 Coding Leaderboards,SWE-DEV,https://swe-dev.ai,Evaluating and Training Autonomous Feature-Driven Software Development
-SOURCE,...,https://github.com/joylarkin/AI-Coding-Landscape,The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more
+SOURCE, joylarkin/AI-Coding-Landscape,https://github.com/joylarkin/AI-Coding-Landscape,"The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more"
