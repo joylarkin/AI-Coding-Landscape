@@ -3,6 +3,31 @@ The 2025 AI Coding Landscape - Coding models, agents, CLIs, IDEs, AI app builder
 
 A work in progress... discovering the most recent developments in AI coding.  
 
+NOTES   
+The README.md file is regularly updated with new entries, the CSV file is updated bimonthly.
+
+TO ADD OR UPDATE A LISTING   
+Want to add or update an AI coding model, agent, IDE, app builder, or tool in this README.md file? Let me know.   
+
+✅ Pull requests accepted!   
+OR  
+💬 Tweet at me [@joy](https://twitter.com/joy) OR Connect with me on [LinkedIn](https://www.linkedin.com/in/joylarkin/)  
+OR  
+📩 Submit via email at jklarkin+AIMM AT gmail dot com   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷ Are you a VC interested in working together? Let me know.   
+
+
+🙌 Spread the word about this repo.  
+🌟 GitHub stars are appreciated.   
+
+
+🔍 [Search the AI Coding Tools CSV file](https://github.com/joylarkin/AI-Coding-Landscape/blob/main/aicodingtools.csv)   
+🔍 [Search the AI Coding Models CSV file](https://github.com/joylarkin/AI-Coding-Landscape/blob/main/aicodingmodels.csv)   
+🤗 [Explore the AI Coding Tools HF dataset](https://huggingface.co/datasets/joylarkin/AI-Coding-Tools)   
+🤗 [Explore the AI Coding Models HF dataset](https://huggingface.co/datasets/joylarkin/AI-Coding-Models)   
+️‍🔥 [Use the MCP server](https://gitmcp.io/joylarkin/AI-Coding-Landscape)   
+📖 [Read the blog post](https://cleverhack.com/ai-coding-landscape)   
+
 
 ***
 ***
@@ -134,8 +159,8 @@ A work in progress... discovering the most recent developments in AI coding.
 - [Multi-SWE-bench](https://multi-swe-bench.github.io/#/) - A Multilingual Benchmark for Issue Resolving
 - [SWE-DEV](https://github.com/DorothyDUUU/SWE-Dev) - Evaluating and Training Autonomous Feature-Driven Software Development
 
+
 <br /><br />
-***
 ***
 
 ## Coding Model Timeline (Foundation / Open-Weight / Frontier)
