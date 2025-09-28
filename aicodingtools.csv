@@ -1,111 +1,109 @@
 Category,Name,URL,Description
-AI Coding Agents/CLI Tools,OpenAI Codex,https://openai.com/codex,Cloud coding agent toolkit
+AI Coding Agents/CLI Tools,OpenAI Codex,https://openai.com/codex/,Cloud coding agent toolkit
 AI Coding Agents/CLI Tools,GitHub Copilot,https://github.com/features/copilot,Pair-programming assistant
-AI Coding Agents/CLI Tools,Claude Code,https://claude.ai,Anthropic terminal agent
-AI Coding Agents/CLI Tools,Gemini Code Assist,https://ai.google.dev,Google AI coding assistant
-AI Coding Agents/CLI Tools,Cognition Devin,https://cognition.ai,An autonomous AI software engineer
+AI Coding Agents/CLI Tools,Claude Code,https://www.anthropic.com/claude-code,Anthropic terminal agent
+AI Coding Agents/CLI Tools,Gemini Code Assist,https://codeassist.google/,Google AI coding assistant
+AI Coding Agents/CLI Tools,Jules,https://jules.google/,Google Asynchronous Coding Agent
+AI Coding Agents/CLI Tools,Cognition - Devin,https://devin.ai/,An autonomous AI software engineer that can write run and test code
 AI Coding Agents/CLI Tools,Amazon Q Developer,https://aws.amazon.com/q/developer/,AWS code-gen & refactor
-AI Coding Agents/CLI Tools,Cursor AI,https://cursor.sh,Agent baked into Cursor IDE
-AI Coding Agents/CLI Tools,Goose,https://goose.ai,Model + agent API
-AI Coding Agents/CLI Tools,Amp,https://sourcegraph.com/amp,Sourcegraph coding agent
-AI Coding Agents/CLI Tools,Reflection AI Asimov,https://reflection.ai,Enterprise code research agent
-AI Coding Agents/CLI Tools,Conductor,https://conductor.ai,Run a bunch of Claude Codes in parallel
-AI Coding Agents/CLI Tools,Scout,https://scout.ai,The most curious coding and research agent
-AI Coding Agents/CLI Tools,Blackbox AI,https://blackbox.ai,New Autonomous AI Coding Agent
-AI Coding Agents/CLI Tools,Forge Code,https://forge.ai,An AI software engineering agent
-AI Coding Agents/CLI Tools,Factory,https://factory.ai,Delegate software development tasks to agents called Droids
-AI Coding Agents/CLI Tools,Replit Agent,https://replit.com,Set up and create apps from scratch
-AI Coding Agents/CLI Tools,JetBrains Junie,https://jetbrains.com/junie,Your smart coding agent
-AI Coding Agents/CLI Tools,Slate,https://slate.ai,A purpose built agent for long coding tasks
-AI Coding Agents/CLI Tools,GitHub Copilot CLI,https://github.com/features/copilot/cli,GitHub Copilot coding agent for terminal
-AI Coding Agents/CLI Tools,Codebuff,https://codebuff.ai,Terminal assistant for writing and understanding code
-Open Source AI Coding Agents/CLI Tools,Aider,https://aider.chat,Terminal pair-programming
-Open Source AI Coding Agents/CLI Tools,Continue,https://continue.dev,IDE extensions + CLI
-Open Source AI Coding Agents/CLI Tools,Cline,https://cline.ai,Autonomous IDE agent
-Open Source AI Coding Agents/CLI Tools,Roo Code,https://roo.ai,Cline fork VS Code extension
-Open Source AI Coding Agents/CLI Tools,Kilo Code,https://kilocode.ai,AI coding agent for VS Code and JetBrains
-Open Source AI Coding Agents/CLI Tools,Gemini CLI,https://github.com/google/gemini-cli,Open-source AI agent for Google Gemini
-Open Source AI Coding Agents/CLI Tools,OpenAI Codex CLI,https://github.com/openai/codex-cli,Open-source command-line agent for OpenAI
-Open Source AI Coding Agents/CLI Tools,OpenHands,https://openhands.ai,Multi-tool coding agent
-Open Source AI Coding Agents/CLI Tools,Qwen Code,https://qwen.ai,Command-line AI workflow tool for Qwen3-Coder
-Open Source AI Coding Agents/CLI Tools,Ruler,https://ruler.ai,Central AI agent rule registry
-Open Source AI Coding Agents/CLI Tools,OpenCode,https://opencode.ai,OSS terminal assistant
-Open Source AI Coding Agents/CLI Tools,Vibe Kanban,https://vibekanban.ai,Orchestrate multiple agents
-Open Source AI Coding Agents/CLI Tools,Charm,https://charm.ai,A charming terminal agent
-Open Source AI Coding Agents/CLI Tools,Goose,https://goose.ai,Open source extensible AI agent
-Open Source AI Coding Agents/CLI Tools,DeepCode,https://deepcode.ai,Transform research papers into production-ready code
-Desktop IDEs,Visual Studio Code,https://code.visualstudio.com,
-Desktop IDEs,IntelliJ IDEA,https://jetbrains.com/idea,
-Desktop IDEs,PyCharm,https://jetbrains.com/pycharm,
-Desktop IDEs,WebStorm,https://jetbrains.com/webstorm,
-Desktop IDEs,Xcode,https://developer.apple.com/xcode,
-Desktop IDEs,Eclipse,https://eclipse.org,
-Desktop IDEs,NetBeans,https://netbeans.org,
-Desktop IDEs,Atom,https://atom.io,Atom community fork
-Desktop IDEs,Blackbox IDE,https://blackbox.ai/ide,
-Cloud & AI-Powered IDEs,Cursor,https://cursor.sh,AI-first VS Code fork
-Cloud & AI-Powered IDEs,Windsurf,https://windsurf.ai,Agentic IDE with advanced AI coding assistant
-Cloud & AI-Powered IDEs,Zed,https://zed.dev,High-performance Rust editor with AI chat
-Cloud & AI-Powered IDEs,Amp,https://sourcegraph.com/amp,VS Code Extension
-Cloud & AI-Powered IDEs,Trae,https://trae.ai,ByteDance AI IDE
-Cloud & AI-Powered IDEs,Augment Code,https://augmentcode.ai,Developer AI platform
-Cloud & AI-Powered IDEs,Warp,https://warp.dev,An agentic development environment
-Cloud & AI-Powered IDEs,Kiro,https://kiro.ai,Structure to AI coding with spec-driven development (Waitlist)
-AI App Builders,Bolt,https://bolt.new,Browser-based AI app builder
-AI App Builders,Lovable,https://lovable.dev,Chat-to-app builder
-AI App Builders,Replit,https://replit.com,Cloud IDE w/ Ghostwriter
-AI App Builders,v0.dev,https://v0.dev,Vercel text-to-UI generator
-AI App Builders,Mocha,https://mocha.ai,YC-backed no-code app builder
-AI App Builders,Nectry,https://nectry.ai,Responsible vibe coding for the enterprise
-AI App Builders,Reflex,https://reflex.dev,From prompt to production build and deploy Python apps
-AI App Builders,Superblocks,https://superblocks.com,Build secure internal apps with AI
-AI App Builders,vybe,https://vybe.ai,Build internal apps 10X faster
-AI App Builders,Emergent,https://emergent.ai,YC-backed build ambitious apps with agentic vibe-coding
-AI App Builders,orchids v2,https://orchids.ai,YC-backed the worlds first AI Full Stack Engineer
-AI App Builders,Same,https://same.ai,YC-backed build fullstack web apps by prompting
-AI App Builders,Aura,https://aura.ai,Generate beautiful designs in seconds
-AI App Builders,21st.dev,https://21st.dev,Build products that reflect the team's own taste
-AI App Builders,Base44,https://base44.ai,Build fully-functional apps in minutes with just your words
-AI App Builders,VibeFlow,https://vibeflow.ai,YC backed transform AI-generated frontend mockups into applications
-AI App Builders,Blink,https://blink.ai,Turn any idea into a beautiful working app in seconds
-AI App Builders,a0,https://a0.ai,YC backed ship mobile apps to the App Store and Google Play with AI
-AI App Builders,Anything,https://anything.ai,Create powerful apps & websites by chatting with AI
-AI App Builders,Rocket,https://rocket.ai,Think It. Type It. Launch It.
-Mobile AI App Builders,Rork,https://rork.ai,Builds complete cross-platform mobile apps using AI and React Native
-Mobile AI App Builders,Vibecode,https://vibecode.ai,Create native apps in seconds with AI
-Mobile AI App Builders,bitrig,https://bitrig.ai,Build apps for your phone on your phone
-Mobile AI App Builders,Spielwork,https://spielwork.ai,The Tiktok for vibecoded mini games
-Mobile AI App Builders,Gizmo,https://gizmo.ai,Make playful personal software—right from your phone
-Mobile AI App Builders,Hivemind,https://hivemind.ai,The fastest & easiest way to chat & code with any AI in one app
-Mobile AI App Builders,Bloom,https://bloom.ai,YC backed go from idea to native mobile app on your phone
-Mobile AI App Builders,Vibe Code Go,https://vibecodego.ai,YC backed code from your phone
-Open Source AI App Builders,Dyad,https://dyad.ai,A local open-source AI app builder
-Open Source AI App Builders,Open Lovable,https://github.com/lovable/open-lovable,Clone and recreate any website as a modern React app
-Open Source AI App Builders,bolt.diy,https://bolt.diy,Bolt.new OSS version AI-powered full-stack web dev
-Open Source AI App Builders,app.build,https://app.build,An open-source AI agent that builds full-stack apps
-Open Source AI App Builders,ToolJet,https://tooljet.com,An open-source low-code framework
-Open Source AI App Builders,Adorable,https://github.com/adorable/adorable,Another open source Lovable version
-Open Source AI App Builders,Vercel,https://vercel.com,OSS Vibe Coding Platform
-Open Source AI App Builders,Cloudflare VibeSDK,https://cloudflare.com/vibesdk,Run an entire vibe coding platform
-Other Useful AI DevTools,Ollama,https://ollama.ai,Chat & build with open models
-Other Useful AI DevTools,LM Studio,https://lmstudio.ai,Run gpt-oss Qwen Gemma DeepSeek on your computer
-Other Useful AI DevTools,Open WebUI,https://openwebui.com,Self-hosted AI platform designed to operate entirely offline
-Other Useful AI DevTools,SillyTavern,https://sillytavern.ai,A locally installed UI for text image and voice LLMs
-Other Useful AI DevTools,Unsloth,https://unsloth.ai,An open-source framework for LLM fine-tuning
-Other Useful AI DevTools,n8n,https://n8n.io,Flexible AI workflow automation for technical teams
-Other Useful AI DevTools,Firecrawl,https://firecrawl.ai,Turn websites into LLM-ready data
-Other Useful AI DevTools,Agents.md,https://agents.md,A simple open format for guiding coding agents
-Other Useful AI DevTools,Vercel AI Gateway,https://vercel.com/ai-gateway,A gateway to access hundreds of models
-Other Useful AI DevTools,OpenRouter,https://openrouter.ai,A unified API providing access to hundreds of AI models
-Other Useful AI DevTools,Fabric,https://fabric.ai,An open-source modular system for solving specific problems
-Other Useful AI DevTools,Vibetunnel,https://vibetunnel.ai,VibeTunnel proxies your terminals right into the browser
-Coding Leaderboards,SWE-Bench Pro,https://swebench.pro,A new benchmark for evaluating AI agents for software engineering
-Coding Leaderboards,Aider,https://aider.chat/leaderboard,Aider polyglot coding leaderboard
-Coding Leaderboards,SWE-bench,https://swebench.ai,SWE-bench evaluates LLM performance on real world software issues
-Coding Leaderboards,SWE-rebench,https://swe-rebench.ai,A Continuously Evolving and Decontaminated Benchmark
-Coding Leaderboards,OpenRouter,https://openrouter.ai/leaderboard,Model Market Share Use Case Categories and App Rankings
-Coding Leaderboards,Terminal-Bench,https://terminal-bench.ai,A benchmark measuring the capabilities of AI agents in a terminal environment
-Coding Leaderboards,PR Arena,https://pr-arena.ai,Software engineering agents head to head
-Coding Leaderboards,Multi-SWE-bench,https://multi-swe-bench.ai,A Multilingual Benchmark for Issue Resolving
-Coding Leaderboards,SWE-DEV,https://swe-dev.ai,Evaluating and Training Autonomous Feature-Driven Software Development
+AI Coding Agents/CLI Tools,Cursor AI,https://cursor.com/,Agent baked into Cursor IDE
+AI Coding Agents/CLI Tools,Goose,https://goose.ai/,Model + agent API
+AI Coding Agents/CLI Tools,Amp,https://sourcegraph.com/amp,Sourcegraph coding agent (CLI / VS Code)
+AI Coding Agents/CLI Tools,Reflection AI - Asimov,https://reflection.ai/asimov,Enterprise code research agent
+AI Coding Agents/CLI Tools,Conductor,https://conductor.build/,Run a bunch of Claude Codes in parallel
+AI Coding Agents/CLI Tools,Scout,https://scout.new/,Calls itself the most curious coding and research agent
+AI Coding Agents/CLI Tools,Blackbox AI,https://www.blackbox.ai/,New Autonomous AI Coding Agent
+AI Coding Agents/CLI Tools,Forge Code,https://forgecode.dev,An AI software engineering agent that runs in your terminal
+AI Coding Agents/CLI Tools,Factory,https://www.factory.ai/,Delegate software development tasks to agents called Droids
+AI Coding Agents/CLI Tools,Replit Agent,https://docs.replit.com/replitai/agent,Set up and create apps from scratch works with any framework
+AI Coding Agents/CLI Tools,JetBrains Junie,https://www.jetbrains.com/junie/,Your smart coding agent
+AI Coding Agents/CLI Tools,Slate,https://randomlabs.ai/,A purpose built agent designed to work with you for long and hard coding tasks
+AI Coding Agents/CLI Tools,GitHub Copilot CLI,https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/,The power of GitHub Copilot coding agent directly to your terminal
+AI Coding Agents/CLI Tools,Codebuff,https://www.codebuff.com/,Works in your terminal to help you write and deeply understand your code
+Open Source AI Coding Agents/CLI Tools,Aider,https://github.com/Aider-AI/aider,Terminal pair-programming
+Open Source AI Coding Agents/CLI Tools,Continue,https://continue.dev/,IDE extensions + CLI
+Open Source AI Coding Agents/CLI Tools,Cline,https://cline.bot/,Autonomous IDE agent
+Open Source AI Coding Agents/CLI Tools,Roo Code,https://github.com/RooCodeInc/Roo-Code,Cline fork VS Code extension
+Open Source AI Coding Agents/CLI Tools,Kilo Code,https://kilocode.ai/,AI coding agent for VS Code and JetBrains
+Open Source AI Coding Agents/CLI Tools,Gemini CLI,https://github.com/google-gemini/gemini-cli,An open-source AI agent for Google Gemini
+Open Source AI Coding Agents/CLI Tools,OpenAI Codex CLI,https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started,Open‑source command‑line agent for OpenAI
+Open Source AI Coding Agents/CLI Tools,OpenHands,https://github.com/All-Hands-AI/OpenHands,Multi-tool coding agent
+Open Source AI Coding Agents/CLI Tools,Qwen Code,https://github.com/QwenLM/qwen-code,A command-line AI workflow tool for Qwen3-Coder
+Open Source AI Coding Agents/CLI Tools,Ruler,https://github.com/intellectronica/ruler,Central AI agent rule registry
+Open Source AI Coding Agents/CLI Tools,OpenCode,https://github.com/opencode-ai/opencode,OSS terminal assistant
+Open Source AI Coding Agents/CLI Tools,Vibe Kanban,https://vibekanban.com/,Orchestrate multiple agents
+Open Source AI Coding Agents/CLI Tools,Charm,https://charm.land/,A charming terminal agent your new coding bestie
+Open Source AI Coding Agents/CLI Tools,Goose,https://block.github.io/goose/,An open source extensible AI agent that goes beyond code suggestions
+Open Source AI Coding Agents/CLI Tools,DeepCode,https://github.com/HKUDS/DeepCode,Transforms research papers and natural language into production-ready code
+Desktop IDEs,Visual Studio Code,https://code.visualstudio.com/,
+Desktop IDEs,IntelliJ IDEA / PyCharm / WebStorm,https://www.jetbrains.com/idea/,
+Desktop IDEs,Xcode,https://developer.apple.com/xcode/,
+Desktop IDEs,Eclipse NetBeans,https://www.eclipse.org/eclipseide/,
+Desktop IDEs,Atom,https://atom-editor.cc/,Atom community fork
+Desktop IDEs,Blackbox IDE,https://www.blackbox.ai/,
+Cloud & AI-Powered IDEs,Cursor,https://cursor.com/,AI-first VS Code fork
+Cloud & AI-Powered IDEs,Windsurf,https://windsurf.com/,Agentic IDE advanced AI coding assistant for developers and enterprises
+Cloud & AI-Powered IDEs,Zed,https://zed.dev/,High-performance Rust editor with AI chat
+Cloud & AI-Powered IDEs,Amp,https://marketplace.visualstudio.com/items?itemName=Sourcegraph.amp,VS Code Extension
+Cloud & AI-Powered IDEs,Trae,https://www.trae.ai/,ByteDance AI IDE
+Cloud & AI-Powered IDEs,Augment Code,https://www.augmentcode.com/,Developer AI platform that helps you understand code debug issues and ship faster
+Cloud & AI-Powered IDEs,Warp,https://www.warp.dev/,An agentic development environment
+Cloud & AI-Powered IDEs,Kiro,https://kiro.dev/,Helps you do your best work by bringing structure to AI coding with spec-driven development
+AI App Builders,Bolt,https://bolt.new/,Browser-based AI app builder
+AI App Builders,Lovable,https://lovable.dev/,Chat-to-app builder
+AI App Builders,Replit,https://replit.com/,Cloud IDE w/ Ghostwriter
+AI App Builders,v0.dev,https://v0.dev/,Vercel text-to-UI generator
+AI App Builders,Mocha,https://getmocha.com/,YC-backed no-code app builder
+AI App Builders,Nectry,https://nectry.com/,Responsible vibe coding for the enterprise
+AI App Builders,Reflex,https://reflex.dev/,From prompt to production build and deploy Python apps
+AI App Builders,Superblocks,https://www.superblocks.com/,Build secure internal apps with AI
+AI App Builders,vybe,https://www.vybe.build/,Build internal apps 10X faster
+AI App Builders,Emergent,https://app.emergent.sh/register,YC-backed build ambitious apps with agentic vibe-coding
+AI App Builders,orchids v2,https://www.orchids.app/,YC-backed the worlds first AI Full Stack Engineer
+AI App Builders,Same,https://same.new/,YC-backed build fullstack web apps by prompting
+AI App Builders,Aura,https://aura.build/,Generate beautiful designs in seconds and export to HTML or Figma
+AI App Builders,21st.dev,https://21st.dev/,Build products that reflect the team's own taste
+AI App Builders,Base44,https://base44.com/,Lets you build fully-functional apps in minutes with just your words
+AI App Builders,VibeFlow,https://vibeflow.ai/,YC backed transform your AI-generated frontend mockups into fully functional applications
+AI App Builders,Blink,https://blink.new/,Turn any idea into a beautiful working app in seconds
+AI App Builders,a0,https://a0.dev/,YC backed ship mobile apps to the App Store and Google Play with AI
+AI App Builders,Anything,https://www.createanything.com/,Create powerful apps & websites by chatting with AI
+AI App Builders,Rocket,https://www.rocket.new/,Think It. Type It. Launch It.
+Mobile AI App Builders,Rork,https://rork.com/,Builds complete cross-platform mobile apps using AI and React Native
+Mobile AI App Builders,Vibecode,https://www.vibecodeapp.com/,Create native apps in seconds with AI
+Mobile AI App Builders,bitrig,https://www.bitrig.app/,Build apps for your phone on your phone
+Mobile AI App Builders,Spielwork,https://x.com/eikedrescher/status/1955603622458171811,The Tiktok for vibecoded mini games!
+Mobile AI App Builders,Gizmo,https://www.threads.com/@makegizmos/post/DNgfQtiu-DJ/video-meet-gizmo-a-new-way-to-make-playful-personal-softwareright-from-your-phone-no-c,A new way to make playful personal software—right from your phone
+Mobile AI App Builders,Hivemind,https://apps.apple.com/us/app/hivemind-ai-chat-coding/id6446332488,The fastest & easiest way to chat & code with any AI in one app
+Mobile AI App Builders,Bloom,https://bloom.diy/,YC backed go from idea to native mobile app on your phone without writing a single line of code
+Mobile AI App Builders,Vibe Code Go,https://vibecodego.com/,YC backed code from your phone a mobile app for software engineers
+Open Source AI App Builders,Dyad,https://github.com/dyad-sh/dyad,A local open-source AI app builder
+Open Source AI App Builders,Open Lovable,https://github.com/firecrawl/open-lovable,Clone and recreate any website as a modern React app in seconds
+Open Source AI App Builders,bolt.diy,https://github.com/stackblitz-labs/bolt.diy,Bolt.new OSS version AI-powered full-stack web dev for NodeJS based apps choose the LLM you use for each prompt
+Open Source AI App Builders,app.build,https://www.app.build/,An open-source AI agent that builds full-stack apps
+Open Source AI App Builders,ToolJet,https://github.com/ToolJet/ToolJet,An open-source low-code framework to build and deploy internal tools
+Open Source AI App Builders,Adorable,https://github.com/freestyle-sh/Adorable,Another open source Lovable version
+Open Source AI App Builders,Vercel,https://oss-vibe-coding-platform.vercel.app/,OSS Vibe Coding Platform
+Open Source AI App Builders,Cloudflare VibeSDK,https://build.cloudflare.dev/,Run an entire vibe coding platform end-to-end with just one click
+Other Useful AI DevTools,Ollama,https://ollama.com/,Chat & build with open models
+Other Useful AI DevTools,LM Studio,https://lmstudio.ai/,Run gpt-oss Qwen Gemma DeepSeek on your computer
+Other Useful AI DevTools,Open WebUI,https://openwebui.com/,Self-hosted AI platform designed to operate entirely offline
+Other Useful AI DevTools,SillyTavern,https://sillytavern.app/,A locally installed UI for text image and voice LLMs
+Other Useful AI DevTools,Unsloth,https://unsloth.ai/,An open-source framework for LLM fine-tuning and reinforcement learning
+Other Useful AI DevTools,n8n,https://n8n.io/,Flexible AI workflow automation for technical teams
+Other Useful AI DevTools,Firecrawl,https://firecrawl.dev/,Turn websites into LLM-ready data
+Other Useful AI DevTools,Agents.md,https://agents.md/,A simple open format for guiding coding agents used by over 20k open-source projects
+Other Useful AI DevTools,Vercel AI Gateway,https://vercel.com/blog/ai-gateway-is-now-generally-available,A gateway to access hundreds of models with zero markup on tokens (including BYOK)
+Other Useful AI DevTools,OpenRouter,https://openrouter.ai,A unified API providing access to hundreds of AI models through a single endpoint
+Other Useful AI DevTools,Fabric,https://github.com/danielmiessler/Fabric,An open-source modular system for solving specific problems using crowdsourced AI prompts that can be used anywhere
+Other Useful AI DevTools,Vibetunnel,https://vibetunnel.sh/,VibeTunnel proxies your terminals right into the browser so you can vibe-code anywhere
+Coding Leaderboards,SWE-Bench Pro (Commercial Dataset),https://scale.com/leaderboard/swe_bench_pro_commercial,A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
+Coding Leaderboards,Aider,https://aider.chat/docs/leaderboards/,Aider polyglot coding leaderboard
+Coding Leaderboards,SWE-bench,https://www.swebench.com/,SWE-bench evaluates LLM performance on real world software issues collected from GitHub
+Coding Leaderboards,SWE-rebench,https://swe-rebench.com/,A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
+Coding Leaderboards,OpenRouter,https://openrouter.ai/rankings,Model Market Share Use Case Categories and App Rankings
+Coding Leaderboards,Terminal-Bench,https://www.tbench.ai/leaderboard,A benchmark measuring the capabilities of AI agents in a terminal environment
+Coding Leaderboards,PR Arena,https://prarena.ai/,Software engineering agents head to head
+Coding Leaderboards,Multi-SWE-bench,https://multi-swe-bench.github.io/#/,A Multilingual Benchmark for Issue Resolving
+Coding Leaderboards,SWE-DEV,https://github.com/DorothyDUUU/SWE-Dev,Evaluating and Training Autonomous Feature-Driven Software Development
 SOURCE, joylarkin/AI-Coding-Landscape,https://github.com/joylarkin/AI-Coding-Landscape,"The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more"
