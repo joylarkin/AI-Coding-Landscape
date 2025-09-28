@@ -1,5 +1,5 @@
 # AI Coding Landscape  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/ai-coding-landscape)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/ai-coding-landscape.svg)  
-The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more.  
+The 2025 AI Coding Landscape - Coding models, agents, CLIs, IDEs, AI app builders, devtools, and more.  
 
 A work in progress... dicovering the most recent developments in AI coding.  
 
@@ -133,6 +133,10 @@ A work in progress... dicovering the most recent developments in AI coding.
 - [PR Arena](https://prarena.ai/) - Software engineering agents head to head
 - [Multi-SWE-bench](https://multi-swe-bench.github.io/#/) - A Multilingual Benchmark for Issue Resolving
 - [SWE-DEV](https://github.com/DorothyDUUU/SWE-Dev) - Evaluating and Training Autonomous Feature-Driven Software Development
+
+<br /><br />
+***
+***
 
 ## Coding Model Timeline (Foundation / Open-Weight / Frontier)
 
