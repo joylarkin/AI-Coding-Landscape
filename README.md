@@ -168,6 +168,7 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### September 2025
+- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5) - Anthropic, the strongest model for building complex agents, the best model at using computers, it shows substantial gains on tests of reasoning and math, September 2025
 - [Qwen3-Max-Instruct](https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&from=research.latest-advancements-list) - Alibaba Cloud, the official release further elevates its capabilities — particularly in coding and agent performance, September 2025
 - [GPT‑5-Codex](https://openai.com/index/introducing-upgrades-to-codex/) - OpenAI, a version of GPT‑5 further optimized for agentic coding in Codex and trained with a focus on real-world software engineering work, September 2025
 - [Kimi K2-Instruct-0905](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) - Moonshot AI, updated SOTA model with improved agentic and frontend capabilities and increased context length, September 2025
