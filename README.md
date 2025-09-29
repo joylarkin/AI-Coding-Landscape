@@ -4,7 +4,7 @@ The 2025 AI Coding Landscape - Coding models, agents, CLIs, IDEs, AI app builder
 A work in progress... discovering the most recent developments in AI coding.  
 
 NOTES   
-The README.md file is regularly updated with new entries, the CSV file is updated bimonthly.
+The README.md file is regularly updated with new entries, the datasets and CSV files are updated bimonthly.
 
 TO ADD OR UPDATE A LISTING   
 Want to add or update an AI coding model, agent, IDE, app builder, or tool in this README.md file? Let me know.   
