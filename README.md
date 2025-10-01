@@ -169,53 +169,54 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### September 2025
-- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5) - Anthropic, the strongest model for building complex agents, the best model at using computers, it shows substantial gains on tests of reasoning and math, September 2025
-- [Qwen3-Max-Instruct](https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&from=research.latest-advancements-list) - Alibaba Cloud, the official release further elevates its capabilities — particularly in coding and agent performance, September 2025
-- [GPT‑5-Codex](https://openai.com/index/introducing-upgrades-to-codex/) - OpenAI, a version of GPT‑5 further optimized for agentic coding in Codex and trained with a focus on real-world software engineering work, September 2025
-- [Kimi K2-Instruct-0905](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) - Moonshot AI, updated SOTA model with improved agentic and frontend capabilities and increased context length, September 2025
+- [GLM-4.6](https://huggingface.co/zai-org/GLM-4.6) - Z.ai, features a longer context window, superior coding performance, advanced reasoning, more capable agents, and refined writing versus GLM-4.5 
+- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5) - Anthropic, the strongest model for building complex agents, the best model at using computers, it shows substantial gains on tests of reasoning and math
+- [Qwen3-Max-Instruct](https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&from=research.latest-advancements-list) - Alibaba Cloud, the official release further elevates its capabilities — particularly in coding and agent performance
+- [GPT‑5-Codex](https://openai.com/index/introducing-upgrades-to-codex/) - OpenAI, a version of GPT‑5 further optimized for agentic coding in Codex and trained with a focus on real-world software engineering work
+- [Kimi K2-Instruct-0905](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) - Moonshot AI, updated SOTA model with improved agentic and frontend capabilities and increased context length
 
 ### August 2025
-- [GPT-5](https://platform.openai.com/docs/models) - OpenAI, flagship model, August 2025
-- [GPT-5-mini](https://platform.openai.com/docs/models) - OpenAI, fast/cost efficient, August 2025
-- [GPT-5-nano](https://platform.openai.com/docs/models) - OpenAI, faster/cost efficient, August 2025
-- [Claude Opus 4.1](https://www.anthropic.com/claude/opus) - Anthropic, a drop-in replacement for Opus 4, August 2025
-- [Mistral Medium 3.1](https://x.com/MistralAI/status/1955316715417382979) - Mistral AI, aka Mistral-Medium-2508 - enterprise-grade model excels in coding tasks, August 2025
-- [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1) - xAI, a speedy and economical reasoning model that excels at agentic coding, August 2025
+- [GPT-5](https://platform.openai.com/docs/models) - OpenAI, flagship model 
+- [GPT-5-mini](https://platform.openai.com/docs/models) - OpenAI, fast/cost efficient 
+- [GPT-5-nano](https://platform.openai.com/docs/models) - OpenAI, faster/cost efficient 
+- [Claude Opus 4.1](https://www.anthropic.com/claude/opus) - Anthropic, a drop-in replacement for Opus 4 
+- [Mistral Medium 3.1](https://x.com/MistralAI/status/1955316715417382979) - Mistral AI, aka Mistral-Medium-2508 - enterprise-grade model excels in coding tasks 
+- [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1) - xAI, a speedy and economical reasoning model that excels at agentic coding 
 
 ### July 2025
-- [Qwen3-Coder](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) - Alibaba Cloud, agentic code model, July 2025
-- [Qwen3-Coder-Flash](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) - Alibaba Cloud, streamlined non thinking agentic code model, July 2025
-- [Kimi K2](https://moonshotai.github.io/Kimi-K2/) - Moonshot AI, 1 T-param MoE, July 2025
-- [GLM-4.5](https://z.ai/blog/glm-4.5) - Z.ai, An open-source LLM designed for intelligent agents, July 2025
-- [Codestral 25.08](https://mistral.ai/news/codestral) - Mistral AI, code model for high-precision fill-in-the-middle (FIM) completion, July 2025
-- [Devstral Medium 2507](https://mistral.ai/news/devstral-2507) - Mistral × All Hands AI, high-quality and cost-effective model, July 2025
-- [Devstral Small 1.1 2507](https://mistral.ai/news/devstral-2507) - Mistral × All Hands AI, agentic model, July 2025
-- [Grok 4 Coding Mode](https://x.ai/grok) - xAI, July 2025
+- [Qwen3-Coder](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) - Alibaba Cloud, agentic code model 
+- [Qwen3-Coder-Flash](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) - Alibaba Cloud, streamlined non thinking agentic code model 
+- [Kimi K2](https://moonshotai.github.io/Kimi-K2/) - Moonshot AI, 1 T-param MoE 
+- [GLM-4.5](https://z.ai/blog/glm-4.5) - Z.ai, an open-source LLM designed for intelligent agents 
+- [Codestral 25.08](https://mistral.ai/news/codestral) - Mistral AI, code model for high-precision fill-in-the-middle (FIM) completion 
+- [Devstral Medium 2507](https://mistral.ai/news/devstral-2507) - Mistral × All Hands AI, high-quality and cost-effective model 
+- [Devstral Small 1.1 2507](https://mistral.ai/news/devstral-2507) - Mistral × All Hands AI, agentic model 
+- [Grok 4](https://x.ai/grok) - xAI, Grok 4
 
 ### June 2025
-- [Gemini 2.5 Pro](https://deepmind.google/models/gemini/pro/) - Google DeepMind, flagship model, June 2025
-- [Gemini 2.5 Flash](https://deepmind.google/models/gemini/pro/) - Google DeepMind, fast/cost efficient with thinking capabilities, June 2025
+- [Gemini 2.5 Pro](https://deepmind.google/models/gemini/pro/) - Google DeepMind, flagship model 5
+- [Gemini 2.5 Flash](https://deepmind.google/models/gemini/pro/) - Google DeepMind, fast/cost efficient with thinking capabilities 
 
 ### May 2025
-- [Claude Opus 4](https://www.anthropic.com/claude/opus) - Anthropic, pushes the frontier in coding, agentic search, and creative writing, May 2025
-- [Claude Sonnet 4](https://www.anthropic.com/claude/sonnet) - Anthropic, improves on Claude Sonnet 3.7 across a variety of areas, especially coding, May 2025
-- [DeepSeek-R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) - DeepSeek, OSS reasoning model, May 2025
+- [Claude Opus 4](https://www.anthropic.com/claude/opus) - Anthropic, pushes the frontier in coding, agentic search, and creative writing 
+- [Claude Sonnet 4](https://www.anthropic.com/claude/sonnet) - Anthropic, improves on Claude Sonnet 3.7 across a variety of areas, especially coding 
+- [DeepSeek-R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) - DeepSeek, OSS reasoning model 
 
 ### April 2025
-- [o3](https://platform.openai.com/docs/models) - OpenAI, preview reasoning model, April 2025
-- [o4-mini](https://platform.openai.com/docs/models) - OpenAI, compact model, April 2025
-- [GPT-4.1](https://platform.openai.com/docs/models) - OpenAI, flagship model with 1M token context window, April 2025
-- [Llama 4 Maverick](https://llama.meta.com/get-started/) - Meta, code-tuned model, April 2025
-- [Llama 4 Scout](https://llama.meta.com/get-started/) - Meta, open-weight model, April 2025
-- [Mellum](https://huggingface.co/JetBrains/Mellum-4b-base) - JetBrains, 4-B param OSS model, April 2025
+- [o3](https://platform.openai.com/docs/models) - OpenAI, preview reasoning model 
+- [o4-mini](https://platform.openai.com/docs/models) - OpenAI, compact model 
+- [GPT-4.1](https://platform.openai.com/docs/models) - OpenAI, flagship model with 1M token context window
+- [Llama 4 Maverick](https://llama.meta.com/get-started/) - Meta, code-tuned model 
+- [Llama 4 Scout](https://llama.meta.com/get-started/) - Meta, open-weight model 
+- [Mellum](https://huggingface.co/JetBrains/Mellum-4b-base) - JetBrains, 4-B param OSS model 
 
 ### March 2025
-- [DeepSeek-V3-0324](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) - DeepSeek, improved V3 version, March 2025
+- [DeepSeek-V3-0324](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) - DeepSeek, improved V3 version 
 
 ### February 2025
-- [Gemini 2.0 Flash](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/) - Google DeepMind, multimodal for high-volume high-frequency tasks, February 2025
-- [Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet) - Anthropic, first hybrid reasoning model and state-of-the art for coding, February 2025
-- [Grok 3](https://x.ai/grok) - xAI, February 2025
+- [Gemini 2.0 Flash](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/) - Google DeepMind, multimodal for high-volume high-frequency tasks 
+- [Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet) - Anthropic, first hybrid reasoning model and state-of-the art for coding 
+- [Grok 3](https://x.ai/grok) - xAI, Grok 3
 
 <br /><br />
 *** SOURCE: joylarkin/AI-Coding-Landscape - https://github.com/joylarkin/AI-Coding-Landscape
