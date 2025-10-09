@@ -159,6 +159,7 @@ OR
 - [Multi-SWE-bench](https://multi-swe-bench.github.io/#/) - A Multilingual Benchmark for Issue Resolving
 - [SWE-DEV](https://github.com/DorothyDUUU/SWE-Dev) - Evaluating and Training Autonomous Feature-Driven Software Development
 - [LiveCodeBench](https://livecodebench.github.io/leaderboard.html) - Holistic and Contamination Free Evaluation of Large Language Models for Code
+- [BigCodeArena](https://huggingface.co/spaces/bigcode/arena) - A human-in-the-loop platform for evaluating code through execution
 
 
 <br /><br />
