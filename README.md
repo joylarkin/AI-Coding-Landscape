@@ -160,6 +160,7 @@ OR
 - [SWE-DEV](https://github.com/DorothyDUUU/SWE-Dev) - Evaluating and Training Autonomous Feature-Driven Software Development
 - [LiveCodeBench](https://livecodebench.github.io/leaderboard.html) - Holistic and Contamination Free Evaluation of Large Language Models for Code
 - [BigCodeArena](https://huggingface.co/spaces/bigcode/arena) - A human-in-the-loop platform for evaluating code through execution
+- [Modu Merge Rate Leaderboard](https://www.askmodu.com/rankings) - Real-world success rates: Ranking top coding agents by their pull request merge performance on Modu
 
 
 <br /><br />
