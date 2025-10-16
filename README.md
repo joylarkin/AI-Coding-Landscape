@@ -56,6 +56,7 @@ OR
 - [Slate](https://randomlabs.ai/) - A purpose built agent designed to work with you for long and hard coding tasks
 - [GitHub Copilot CLI](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/) - The power of GitHub Copilot coding agent directly to your terminal
 - [Codebuff](https://www.codebuff.com/) - Works in your terminal to help you write and deeply understand your code
+- [CTO.new](https://cto.new) - Completely free AI code agent
 
 ### Open Source AI Coding Agents/CLI Tools
 - [Aider](https://github.com/Aider-AI/aider) - Terminal pair-programming
