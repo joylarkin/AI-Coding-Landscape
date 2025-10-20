@@ -37,7 +37,7 @@ OR
 ### AI Coding Agents/CLI Tools
 - [OpenAI Codex](https://openai.com/codex/) - Cloud coding agent toolkit
 - [GitHub Copilot](https://github.com/features/copilot) - Pair-programming assistant
-- [Claude Code](https://www.anthropic.com/claude-code) - Anthropic terminal agent
+- [Claude Code](https://claude.com/product/claude-code) - Anthropic terminal agent, bring Sonnet 4.5 right to your terminal
 - [Gemini Code Assist](https://codeassist.google/) - Google AI coding assistant
 - [Jules](https://jules.google/) - Google Asynchronous Coding Agent
 - [Cognition - Devin](https://devin.ai/) - An autonomous AI software engineer that can write, run and test code
@@ -172,7 +172,14 @@ OR
 
 Noteworthy releases, some entries may be updated model versions or model families.
 
+### October 2025
+
+- [CoDA-1.7B](https://huggingface.co/Salesforce/CoDA-v0-Base) - Salesforce AI Research, diffusion-based language model designed for powerful code generation and bidirectional context understanding
+- [KAT-Dev-72B-Exp](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) -  Kawaipilot, an open-source 72B-parameter model for software engineering tasks, achieves 74.6% accuracy on SWE-Bench Verified when evaluated strictly with the SWE-agent scaffold
+
 ### September 2025
+- [Code World Model (CWM)](https://huggingface.co/facebook/cwm) - AI at Meta, CWM is an LLM for code generation and reasoning that has been trained to better represent and reason how code and commands affect the state of a program or system
+- [DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp) -  DeepSeek, experimental sparse-attention upgrade that halves inference cost while retaining strong code-generation and long-context reasoning
 - [GLM-4.6](https://huggingface.co/zai-org/GLM-4.6) - Z.ai, features a longer context window, superior coding performance, advanced reasoning, more capable agents, and refined writing versus GLM-4.5 
 - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5) - Anthropic, the strongest model for building complex agents, the best model at using computers, it shows substantial gains on tests of reasoning and math
 - [Qwen3-Max-Instruct](https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&from=research.latest-advancements-list) - Alibaba Cloud, the official release further elevates its capabilities — particularly in coding and agent performance
