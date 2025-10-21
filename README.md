@@ -114,6 +114,7 @@ OR
 - [a0](https://a0.dev/) - YC backed, ship mobile apps to the App Store and Google Play with AI
 - [Anything](https://www.createanything.com/) - Create powerful apps & websites by chatting with AI
 - [Rocket](https://www.rocket.new/) - Think It. Type It. Launch It.
+- [Google Build](https://aistudio.google.com/apps) - Build your ideas with Gemini
 
 ### Mobile AI App Builders
 - [Rork](https://rork.com/) - Builds complete, cross-platform mobile apps using AI and React Native
