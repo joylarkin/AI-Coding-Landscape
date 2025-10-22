@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "AI Coding Landscape"
+type: dataset
+preferred-citation.type: software
+authors:
+  - family-names: Larkin
+    given-names: Joy
+repository-code: "https://github.com/joylarkin/AI-Coding-Landscape"
+url: "https://github.com/joylarkin/AI-Coding-Landscape"
+abstract: >
+  The AI Coding Landscape - AI coding models, agents, CLIs, IDEs, AI app builders, open source tooling, benchmarks 
+keywords:
+  - artificial intelligence
+  - ai coding
+  - landscape
+  - coding tools
+  - coding models
+  - coding leaderboards
+  - coding agents
+  - vibe coding
+license: MIT
+date-released: 2025
+preferred-citation:
+  type: software
+  title: "AI Coding Landscape"
+  authors:
+    - family-names: Larkin
+      given-names: Joy
+  url: https://github.com/joylarkin/AI-Coding-Landscape"
+  notes: "Please include the access date when citing the repository."
