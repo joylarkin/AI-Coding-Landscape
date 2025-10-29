@@ -175,7 +175,8 @@ Noteworthy releases, some entries may be updated model versions or model familie
 
 ### October 2025
 
-- [Cursor Composer](https://cursor.com/blog/2-0) - Cursor, 4x faster than similarly intelligent models and built for low-latency agentic coding
+- [Composer](https://cursor.com/blog/2-0) - Cursor, 4x faster than similarly intelligent models and built for low-latency agentic coding
+- [SWE-1.5](https://cognition.ai/blog/swe-1-5) - Windsurf Cognition, a fast-agent frontier-size model with hundreds of billions of parameters that achieves near-SOTA coding performance, 6x faster than Haiku 4.5 and 13x faster than Sonnet 4.5
 - [CoDA-1.7B](https://huggingface.co/Salesforce/CoDA-v0-Base) - Salesforce AI Research, diffusion-based language model designed for powerful code generation and bidirectional context understanding
 - [KAT-Dev-72B-Exp](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) -  Kawaipilot, an open-source 72B-parameter model for software engineering tasks, achieves 74.6% accuracy on SWE-Bench Verified when evaluated strictly with the SWE-agent scaffold
 
