@@ -175,6 +175,7 @@ Noteworthy releases, some entries may be updated model versions or model familie
 
 ### October 2025
 
+- [Cursor Composer](https://cursor.com/blog/2-0) - Cursor, 4x faster than similarly intelligent models and built for low-latency agentic coding
 - [CoDA-1.7B](https://huggingface.co/Salesforce/CoDA-v0-Base) - Salesforce AI Research, diffusion-based language model designed for powerful code generation and bidirectional context understanding
 - [KAT-Dev-72B-Exp](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) -  Kawaipilot, an open-source 72B-parameter model for software engineering tasks, achieves 74.6% accuracy on SWE-Bench Verified when evaluated strictly with the SWE-agent scaffold
 
