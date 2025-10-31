@@ -57,6 +57,7 @@ OR
 - [GitHub Copilot CLI](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/) - The power of GitHub Copilot coding agent directly to your terminal
 - [Codebuff](https://www.codebuff.com/) - Works in your terminal to help you write and deeply understand your code
 - [CTO.new](https://cto.new) - Completely free AI code agent
+- [Kimi-CLI](https://www.kimi.com/coding/docs/en/kimi-cli.html) - A new CLI agent that can help you with your software development tasks and terminal operations
 
 ### Open Source AI Coding Agents/CLI Tools
 - [Aider](https://github.com/Aider-AI/aider) - Terminal pair-programming
