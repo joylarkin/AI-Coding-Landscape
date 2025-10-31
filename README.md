@@ -164,6 +164,7 @@ OR
 - [BigCodeArena](https://huggingface.co/spaces/bigcode/arena) - A human-in-the-loop platform for evaluating code through execution
 - [Modu Merge Rate Leaderboard](https://www.askmodu.com/rankings) - Real-world success rates: Ranking top coding agents by their pull request merge performance on Modu
 - [OpenBench Coding](https://openbench.dev/benchmarks/coding) - An open-source framework for standardized, reproducible benchmarking of large language models (LLMs)
+- [Context-Bench](https://leaderboard.letta.com/) - A benchmark for agentic context engineering
 
 
 <br /><br />
