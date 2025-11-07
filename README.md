@@ -176,6 +176,7 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### November 2025
+- [GPT-5-Codex-Mini](https://x.com/OpenAIDevs/status/1986861736041853368?s=20) - OpenAI, allows roughly 4x more usage than GPT-5-Codex, at a slight capability tradeoff due to the more compact model
 - [Mercury Code](https://docs.inceptionlabs.ai/get-started/models) - Inception Labs, dLLM optimized to accelerate coding workflows, streaming, tool use, and structured output with 128K context window
 
 ### October 2025
