@@ -85,6 +85,7 @@ OR
 - [Blackbox IDE](https://www.blackbox.ai/)
 
 ### Cloud & AI-Powered IDEs
+- [Google Antigravity](https://antigravity.google/) - Agentic development platform, evolving the IDE into the agent-first era
 - [Cursor](https://cursor.com/) - AI-first VS Code fork
 - [Windsurf](https://windsurf.com/) - Agentic IDE, advanced AI coding assistant for developers and enterprises
 - [Zed](https://zed.dev/) - High-performance Rust editor with AI chat
@@ -126,6 +127,8 @@ OR
 - [Hivemind](https://apps.apple.com/us/app/hivemind-ai-chat-coding/id6446332488) - The fastest & easiest way to chat & code with any AI in one app
 - [Bloom](https://bloom.diy/) - YC backed, go from idea to native mobile app on your phone without writing a single line of code
 - [Vibe Code Go](https://vibecodego.com/) - YC backed, code from your phone, a mobile app for software engineers
+- [Variant](https://variant.ai/) - Gives your ideas room to grow...to branch, remix, and become what they're meant to be
+- [sleek.design](https://sleek.design/) - Design mobile apps in minutes
 
 ### Open Source AI App Builders
 - [Dyad](https://github.com/dyad-sh/dyad) - A local, open-source AI app builder
@@ -150,6 +153,7 @@ OR
 - [OpenRouter](https://openrouter.ai) - A unified API providing access to hundreds of AI models through a single endpoint
 - [Fabric](https://github.com/danielmiessler/Fabric) - An open-source modular system for solving specific problems using crowdsourced AI prompts that can be used anywhere
 - [Vibetunnel](https://vibetunnel.sh/) - VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere
+- [Anannas](https://anannas.ai/) - Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing, cost control, and instant usage insights.
 
 ### Coding Leaderboards
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
@@ -157,16 +161,20 @@ OR
 - [SWE-bench](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
 - [SWE-rebench](https://swe-rebench.com/) - A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
 - [OpenRouter](https://openrouter.ai/rankings) - Model, Market Share, Use Case Categories, and App Rankings
+- [Terminal-Bench@2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0) - A benchmark measuring the capabilities of AI agents in a terminal environment
 - [Terminal-Bench](https://www.tbench.ai/leaderboard) - A benchmark measuring the capabilities of AI agents in a terminal environment
 - [PR Arena](https://prarena.ai/) - Software engineering agents head to head
 - [Multi-SWE-bench](https://multi-swe-bench.github.io/#/) - A Multilingual Benchmark for Issue Resolving
 - [SWE-DEV](https://github.com/DorothyDUUU/SWE-Dev) - Evaluating and Training Autonomous Feature-Driven Software Development
+- [LiveCodeBench Pro](https://livecodebenchpro.com/) - A benchmark composed of problems from Codeforces, ICPC, and IOI that are continuously updated to reduce the likelihood of data contamination
 - [LiveCodeBench](https://livecodebench.github.io/leaderboard.html) - Holistic and Contamination Free Evaluation of Large Language Models for Code
 - [BigCodeArena](https://huggingface.co/spaces/bigcode/arena) - A human-in-the-loop platform for evaluating code through execution
 - [Modu Merge Rate Leaderboard](https://www.askmodu.com/rankings) - Real-world success rates: Ranking top coding agents by their pull request merge performance on Modu
 - [OpenBench Coding](https://openbench.dev/benchmarks/coding) - An open-source framework for standardized, reproducible benchmarking of large language models (LLMs)
 - [Context-Bench](https://leaderboard.letta.com/) - A benchmark for agentic context engineering
-
+- [Repo Bench](https://repoprompt.com/bench) - Measuring large context reasoning, file editing precision, and instruction adherence
+- [Vending-Bench 2](https://andonlabs.com/evals/vending-bench-2) - Measuring AI model performance on running a business over long time horizons
+- [τ-bench](https://taubench.com) - Benchmarking AI agents in collaborative real-world scenarios
 
 <br /><br />
 ***
@@ -176,6 +184,9 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### November 2025
+- [GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/) - OpenAI, an update to our foundational reasoning model, which is trained on agentic tasks across software engineering, math, research, and more, faster, more intelligent, and more token-efficient
+- [Gemini 3](https://blog.google/technology/developers/gemini-3-developers/) - Google, our most intelligent model that can help bring any idea to life, delivers unparalleled results across every major AI benchmark compared to previous versions, also surpasses 2.5 Pro at coding, mastering both agentic workflows and complex zero-shot tasks
+- [Doubao-Seed-Code](https://news.aibase.com/news/22712) - ByteDance Volcengine, achieve breakthroughs in performance, price, and migration cost, and deeply integrated with the TRAE development environment
 - [GPT-5-Codex-Mini](https://x.com/OpenAIDevs/status/1986861736041853368?s=20) - OpenAI, allows roughly 4x more usage than GPT-5-Codex, at a slight capability tradeoff due to the more compact model
 - [Mercury Code](https://docs.inceptionlabs.ai/get-started/models) - Inception Labs, dLLM optimized to accelerate coding workflows, streaming, tool use, and structured output with 128K context window
 
