@@ -153,7 +153,8 @@ OR
 - [OpenRouter](https://openrouter.ai) - A unified API providing access to hundreds of AI models through a single endpoint
 - [Fabric](https://github.com/danielmiessler/Fabric) - An open-source modular system for solving specific problems using crowdsourced AI prompts that can be used anywhere
 - [Vibetunnel](https://vibetunnel.sh/) - VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere
-- [Anannas](https://anannas.ai/) - Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing, cost control, and instant usage insights.
+- [Anannas](https://anannas.ai/) - Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing, cost control, and instant usage insights
+- [CodeRabbit](https://www.coderabbit.ai) - AI code reviews - cut code review time & bugs in half
 
 ### Coding Leaderboards
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
