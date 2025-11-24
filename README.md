@@ -185,6 +185,7 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### November 2025
+- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) - Anthropic, intelligent, efficient, and the best model in the world for coding, agents, and computer use, also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets
 - [GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/) - OpenAI, an update to our foundational reasoning model, which is trained on agentic tasks across software engineering, math, research, and more, faster, more intelligent, and more token-efficient
 - [Gemini 3](https://blog.google/technology/developers/gemini-3-developers/) - Google, our most intelligent model that can help bring any idea to life, delivers unparalleled results across every major AI benchmark compared to previous versions, also surpasses 2.5 Pro at coding, mastering both agentic workflows and complex zero-shot tasks
 - [Doubao-Seed-Code](https://news.aibase.com/news/22712) - ByteDance Volcengine, achieve breakthroughs in performance, price, and migration cost, and deeply integrated with the TRAE development environment
