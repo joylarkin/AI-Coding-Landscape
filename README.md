@@ -176,6 +176,7 @@ OR
 - [Repo Bench](https://repoprompt.com/bench) - Measuring large context reasoning, file editing precision, and instruction adherence
 - [Vending-Bench 2](https://andonlabs.com/evals/vending-bench-2) - Measuring AI model performance on running a business over long time horizons
 - [τ-bench](https://taubench.com) - Benchmarking AI agents in collaborative real-world scenarios
+- [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
 
 <br /><br />
 ***
