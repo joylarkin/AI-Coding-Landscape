@@ -180,6 +180,7 @@ OR
 - [τ-bench / τ2-bench](https://taubench.com) - Benchmarking AI agents in collaborative real-world scenarios
 - [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
 - [OSWorld](https://os-world.github.io/) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- [MCP Atlas](https://scale.com/leaderboard/mcp_atlas) - Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)  
 
 <br /><br />
 ***
