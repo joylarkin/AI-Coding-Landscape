@@ -159,8 +159,10 @@ OR
 ### Coding Leaderboards
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
 - [Aider](https://aider.chat/docs/leaderboards/) - Aider polyglot coding leaderboard
+- [SWE-bench Verified](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
 - [SWE-bench](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
 - [SWE-rebench](https://swe-rebench.com/) - A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
+- [SWE-bench Multilingual](https://swe-bench.com/) - 300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
 - [OpenRouter](https://openrouter.ai/rankings) - Model, Market Share, Use Case Categories, and App Rankings
 - [Terminal-Bench@2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0) - A benchmark measuring the capabilities of AI agents in a terminal environment
 - [Terminal-Bench](https://www.tbench.ai/leaderboard) - A benchmark measuring the capabilities of AI agents in a terminal environment
@@ -177,6 +179,7 @@ OR
 - [Vending-Bench 2](https://andonlabs.com/evals/vending-bench-2) - Measuring AI model performance on running a business over long time horizons
 - [τ-bench / τ2-bench](https://taubench.com) - Benchmarking AI agents in collaborative real-world scenarios
 - [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
+- [OSWorld](https://os-world.github.io/) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 
 <br /><br />
 ***
