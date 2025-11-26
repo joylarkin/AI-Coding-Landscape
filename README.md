@@ -160,7 +160,7 @@ OR
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
 - [Aider](https://aider.chat/docs/leaderboards/) - Aider polyglot coding leaderboard
 - [SWE-bench Verified](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
-- [SWE-bench](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
+- [SWE-bench](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub (the "Verified" subset is a specific version of the dataset designed to be more reliable)
 - [SWE-rebench](https://swe-rebench.com/) - A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
 - [SWE-bench Multilingual](https://swe-bench.com/) - 300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
 - [OpenRouter](https://openrouter.ai/rankings) - Model, Market Share, Use Case Categories, and App Rankings
