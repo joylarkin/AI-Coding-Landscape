@@ -131,6 +131,7 @@ OR
 - [sleek.design](https://sleek.design/) - Design mobile apps in minutes
 
 ### Open Source AI App Builders
+- [Hugging Face DeepSite](https://huggingface.co/deepsite) - Access the most simple and powerful AI Vibe Code Editor to create your next project
 - [Dyad](https://github.com/dyad-sh/dyad) - A local, open-source AI app builder
 - [Open Lovable](https://github.com/firecrawl/open-lovable) - Clone and recreate any website as a modern React app in seconds
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Bolt.new OSS version, AI-powered full-stack web dev for NodeJS based apps, choose the LLM you use for each prompt
