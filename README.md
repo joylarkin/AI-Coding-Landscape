@@ -157,7 +157,8 @@ OR
 - [Anannas](https://anannas.ai/) - Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing, cost control, and instant usage insights
 - [CodeRabbit](https://www.coderabbit.ai) - AI code reviews - cut code review time & bugs in half
 
-### Coding Leaderboards
+### Coding Benchmarks & Leaderboards
+- [Benchmarking GPT-5.1 vs Gemini 3.0 vs Opus 4.5 across 3 Coding Tasks](https://blog.kilo.ai/p/benchmarking-gpt-51-vs-gemini-30-vs-opus-45) - Kilo Code blog, November 2025   
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
 - [Aider](https://aider.chat/docs/leaderboards/) - Aider polyglot coding leaderboard
 - [SWE-bench Verified](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
@@ -165,8 +166,10 @@ OR
 - [SWE-bench Multilingual](https://swe-bench.com/) - 300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
 - [SWE-rebench](https://swe-rebench.com/) - A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
 - [OpenRouter](https://openrouter.ai/rankings) - Model, Market Share, Use Case Categories, and App Rankings
+- [ARC-AGI-2](https://arcprize.org/leaderboard) - Stress testing the efficiency and capability of state-of-the-art AI reasoning systems
 - [Terminal-Bench@2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0) - A benchmark measuring the capabilities of AI agents in a terminal environment
 - [Terminal-Bench](https://www.tbench.ai/leaderboard) - A benchmark measuring the capabilities of AI agents in a terminal environment
+- [OSWorld](https://os-world.github.io/) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [PR Arena](https://prarena.ai/) - Software engineering agents head to head
 - [Multi-SWE-bench](https://multi-swe-bench.github.io/#/) - A Multilingual Benchmark for Issue Resolving
 - [SWE-DEV](https://github.com/DorothyDUUU/SWE-Dev) - Evaluating and Training Autonomous Feature-Driven Software Development
@@ -180,10 +183,7 @@ OR
 - [Vending-Bench 2](https://andonlabs.com/evals/vending-bench-2) - Measuring AI model performance on running a business over long time horizons
 - [τ-bench / τ2-bench](https://taubench.com) - Benchmarking AI agents in collaborative real-world scenarios
 - [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
-- [OSWorld](https://os-world.github.io/) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [MCP Atlas](https://scale.com/leaderboard/mcp_atlas) - Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)  
-- [ARC-AGI-2](https://arcprize.org/leaderboard) - Stress testing the efficiency and capability of state-of-the-art AI reasoning systems
-
 
 <br /><br />
 ***
