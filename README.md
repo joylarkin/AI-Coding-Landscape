@@ -156,6 +156,7 @@ OR
 - [Vibetunnel](https://vibetunnel.sh/) - VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere
 - [Anannas](https://anannas.ai/) - Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing, cost control, and instant usage insights
 - [CodeRabbit](https://www.coderabbit.ai) - AI code reviews - cut code review time & bugs in half
+- [Giga AI](https://gigamind.dev/context) - Giga's context engineering improves quality and understanding — so your AI works right the first time, and you build faster
 
 ### Coding Benchmarks & Leaderboards
 - [Benchmarking GPT-5.1 vs Gemini 3.0 vs Opus 4.5 across 3 Coding Tasks](https://blog.kilo.ai/p/benchmarking-gpt-51-vs-gemini-30-vs-opus-45) - Kilo Code blog, November 2025   
