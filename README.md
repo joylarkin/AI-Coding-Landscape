@@ -183,7 +183,8 @@ OR
 - [Vending-Bench 2](https://andonlabs.com/evals/vending-bench-2) - Measuring AI model performance on running a business over long time horizons
 - [τ-bench / τ2-bench](https://taubench.com) - Benchmarking AI agents in collaborative real-world scenarios
 - [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
-- [MCP Atlas](https://scale.com/leaderboard/mcp_atlas) - Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)  
+- [MCP Atlas](https://scale.com/leaderboard/mcp_atlas) - Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)
+- [CORE-Bench Hard](https://hal.cs.princeton.edu/corebench_hard) - The agent is only given the codebase of the paper and must install all libraries and dependencies, run the code, and read through the output and figures to answer questions about the paper
 
 <br /><br />
 ***
