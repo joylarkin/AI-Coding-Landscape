@@ -192,6 +192,9 @@ OR
 
 Noteworthy releases, some entries may be updated model versions or model families.
 
+### December 2025
+- [rnj-1-instruct](https://huggingface.co/EssentialAI/rnj-1-instruct) - Essential AI, trained from scratch and optimized for code and STEM with capabilities on par with SOTA open-weight models, performs well across a range of programming languages and boasts strong agentic capabilities (e.g., inside agentic frameworks like mini-SWE-agent), while also excelling at tool-calling
+
 ### November 2025
 - [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) - Anthropic, intelligent, efficient, and the best model in the world for coding, agents, and computer use, also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets
 - [GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/) - OpenAI, an update to our foundational reasoning model, which is trained on agentic tasks across software engineering, math, research, and more, faster, more intelligent, and more token-efficient
