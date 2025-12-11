@@ -75,6 +75,7 @@ OR
 - [Charm](https://charm.land/) - A charming terminal agent, your new coding bestie
 - [Goose](https://block.github.io/goose/) - An open source, extensible AI agent that goes beyond code suggestions
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Transforms research papers and natural language into production-ready code
+- [Mistral Vibe CLI](https://github.com/mistralai/mistral-vibe) - Mistral Vibe is a command-line coding assistant powered by Mistral's models
 
 ### Desktop IDEs
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -161,11 +162,12 @@ OR
 ### Coding Benchmarks & Leaderboards
 - [Benchmarking GPT-5.1 vs Gemini 3.0 vs Opus 4.5 across 3 Coding Tasks](https://blog.kilo.ai/p/benchmarking-gpt-51-vs-gemini-30-vs-opus-45) - Kilo Code blog, November 2025   
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
-- [Aider](https://aider.chat/docs/leaderboards/) - Aider polyglot coding leaderboard
+- [SWE-Bench Pro (Public Dataset)](https://scale.com/leaderboard/swe_bench_pro_public) - Designed to provide a rigorous and realistic evaluation of AI agents for software engineering; developed to address several challenges: data contamination, limited task diversity, oversimplified problems, and unreliable and irreproducible testing
 - [SWE-bench Verified](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
 - [SWE-bench](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub (the "Verified" subset is a specific version of the dataset designed to be more reliable)
 - [SWE-bench Multilingual](https://swe-bench.com/) - 300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
 - [SWE-rebench](https://swe-rebench.com/) - A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
+- [Aider](https://aider.chat/docs/leaderboards/) - Aider polyglot coding leaderboard
 - [OpenRouter](https://openrouter.ai/rankings) - Model, Market Share, Use Case Categories, and App Rankings
 - [ARC-AGI-2](https://arcprize.org/leaderboard) - Stress testing the efficiency and capability of state-of-the-art AI reasoning systems
 - [Terminal-Bench@2.0](https://www.tbench.ai/leaderboard/terminal-bench/2.0) - A benchmark measuring the capabilities of AI agents in a terminal environment
@@ -195,6 +197,8 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### December 2025
+- [GPT‑5.2 Thinking](https://openai.com/index/introducing-gpt-5-2/) - OpenAI, sets a new state of the art of 55.6% on SWE-Bench Pro, a rigorous evaluation of real-world software engineering. This model can more reliably debug production code, implement feature requests, refactor large codebases, and ship fixes end-to-end with less manual intervention
+- [Devstral 2](https://mistral.ai/news/devstral-2-vibe-cli) - Mistral AI, our next-generation coding model family available in two sizes: Devstral 2 (123B) and Devstral Small 2 (24B). Devstral sets the open state-of-the-art for code agents. Devstral 2 ships under a modified MIT license, while Devstral Small 2 uses Apache 2.0. Both are open-source and permissively licensed to accelerate distributed intelligence
 - [rnj-1-instruct](https://huggingface.co/EssentialAI/rnj-1-instruct) - Essential AI, trained from scratch and optimized for code and STEM with capabilities on par with SOTA open-weight models, performs well across a range of programming languages and boasts strong agentic capabilities (e.g., inside agentic frameworks like mini-SWE-agent), while also excelling at tool-calling
 
 ### November 2025
