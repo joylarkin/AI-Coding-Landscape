@@ -37,7 +37,7 @@ OR
 ### AI Coding Agents/CLI Tools
 - [OpenAI Codex](https://openai.com/codex/) - Cloud coding agent toolkit
 - [GitHub Copilot](https://github.com/features/copilot) - Pair-programming assistant
-- [Claude Code](https://claude.com/product/claude-code) - Anthropic terminal agent, bring Sonnet 4.5 right to your terminal
+- [Claude Code](https://claude.com/product/claude-code) - Anthropic terminal agent, bring Opus 4.5 right to your terminal
 - [Gemini Code Assist](https://codeassist.google/) - Google AI coding assistant
 - [Jules](https://jules.google/) - Google Asynchronous Coding Agent
 - [Cognition - Devin](https://devin.ai/) - An autonomous AI software engineer that can write, run and test code
@@ -189,6 +189,9 @@ OR
 - [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
 - [MCP Atlas](https://scale.com/leaderboard/mcp_atlas) - Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)
 - [CORE-Bench Hard](https://hal.cs.princeton.edu/corebench_hard) - The agent is given the codebase of a published scientific paper and must install all libraries and dependencies, run the code, and read through the output and figures to answer questions about the paper
+
+### Developer Surveys
+- [The state of AI coding in 2025: Adoption, proficiency, and transformation](https://stateof.themodernsoftware.dev/) - The Modern Software Developer, December 2025
 
 <br /><br />
 ***
