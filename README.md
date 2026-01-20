@@ -113,7 +113,7 @@ OR
 - [21st.dev](https://21st.dev/) - Build products that reflect the team's own taste
 - [Base44](https://base44.com/) - Lets you build fully-functional apps in minutes with just your words
 - [VibeFlow](https://vibeflow.ai/) - YC backed, transform your AI-generated frontend mockups into fully functional applications
-- [Blink](https://blink.new/) - Turn any idea into a beautiful, working app in seconds
+- [Blink.new](https://blink.new/) - The world's first vibe coding platform that builds agentic AI apps
 - [a0](https://a0.dev/) - YC backed, ship mobile apps to the App Store and Google Play with AI
 - [Anything](https://www.createanything.com/) - Create powerful apps & websites by chatting with AI
 - [Rocket](https://www.rocket.new/) - Think It. Type It. Launch It.
@@ -192,6 +192,7 @@ OR
 
 ### Developer Surveys
 - [The state of AI coding in 2025: Adoption, proficiency, and transformation](https://stateof.themodernsoftware.dev/) - The Modern Software Developer, December 2025
+- [AI in Practice Survey 2025](https://theoryvc.com/ai-in-practice-survey-2025) - Theory Ventures, December 2025
 
 <br /><br />
 ***
@@ -199,6 +200,9 @@ OR
 ## Coding Model Timeline (Foundation / Open-Weight / Frontier)
 
 Noteworthy releases, some entries may be updated model versions or model families.
+
+### January 2026
+- [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)  - Z.ai, a local coding and agentic assistant setting a new standard for the 30B class, balancing high performance with efficiency, making it the perfect lightweight deployment option; also recommended for creative writing, translation, long-context tasks, and roleplay
 
 ### December 2025
 - [GPT‑5.2 Thinking](https://openai.com/index/introducing-gpt-5-2/) - OpenAI, sets a new state of the art of 55.6% on SWE-Bench Pro, a rigorous evaluation of real-world software engineering. This model can more reliably debug production code, implement feature requests, refactor large codebases, and ship fixes end-to-end with less manual intervention
