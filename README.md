@@ -189,6 +189,7 @@ OR
 - [Live-SWE-agent](https://live-swe-agent.github.io/) - Can Software Engineering Agents to Self-Evolve on the Fly?
 - [MCP Atlas](https://scale.com/leaderboard/mcp_atlas) - Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)
 - [CORE-Bench Hard](https://hal.cs.princeton.edu/corebench_hard) - The agent is given the codebase of a published scientific paper and must install all libraries and dependencies, run the code, and read through the output and figures to answer questions about the paper
+- [APEX-Agents](https://www.mercor.com/apex/apex-agents-leaderboard/)  The AI Productivity Index for Agents (APEX-Agents) measures whether frontier AI agents can execute long-horizon, cross-application tasks across three jobs in professional services
 
 ### Developer Surveys
 - [The state of AI coding in 2025: Adoption, proficiency, and transformation](https://stateof.themodernsoftware.dev/) - The Modern Software Developer, December 2025
