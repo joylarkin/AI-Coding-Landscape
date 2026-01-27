@@ -203,6 +203,7 @@ OR
 Noteworthy releases, some entries may be updated model versions or model families.
 
 ### January 2026
+- [Kimi K2.5](https://huggingface.co/moonshotai/Kimi-K2.5) - Moonshot AI, Open-Source Visual Agentic Intelligence. Global SOTA on Agentic Benchmarks: HLE full set (50.2%), BrowseComp (74.9%); Open-source SOTA on Vision and Coding: MMMU Pro (78.5%), VideoMMMU (86.6%), SWE-bench Verified (76.8%); Code with Taste: turn chats, images & videos into aesthetic websites with expressive motion; Agent Swarm (Beta): self-directed agents working in parallel, at scale. Up to 100 sub-agents, 1,500 tool calls, 4.5× faster compared with single-agent setup
 - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)  - Z.ai, a local coding and agentic assistant setting a new standard for the 30B class, balancing high performance with efficiency, making it the perfect lightweight deployment option; also recommended for creative writing, translation, long-context tasks, and roleplay
 
 ### December 2025
