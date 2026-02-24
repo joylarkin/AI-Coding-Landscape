@@ -164,7 +164,7 @@ OR
 - [Benchmarking GPT-5.1 vs Gemini 3.0 vs Opus 4.5 across 3 Coding Tasks](https://blog.kilo.ai/p/benchmarking-gpt-51-vs-gemini-30-vs-opus-45) - Kilo Code blog, November 2025   
 - [SWE-Bench Pro (Commercial Dataset)](https://scale.com/leaderboard/swe_bench_pro_commercial) - A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
 - [SWE-Bench Pro (Public Dataset)](https://scale.com/leaderboard/swe_bench_pro_public) - Designed to provide a rigorous and realistic evaluation of AI agents for software engineering; developed to address several challenges: data contamination, limited task diversity, oversimplified problems, and unreliable and irreproducible testing
-- [SWE-bench Verified](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
+- /Deprecated/ [SWE-bench Verified](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub
 - [SWE-bench](https://www.swebench.com/) - SWE-bench evaluates LLM performance on real world software issues collected from GitHub (the "Verified" subset is a specific version of the dataset designed to be more reliable)
 - [SWE-bench Multilingual](https://swe-bench.com/) - 300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
 - [SWE-rebench](https://swe-rebench.com/) - A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
