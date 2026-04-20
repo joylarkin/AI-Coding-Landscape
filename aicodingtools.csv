@@ -1,7 +1,7 @@
 Category,Name,URL,Description
+AI Coding Agents/CLI Tools,Claude Code,https://claude.com/product/claude-code,Anthropic terminal agent - bring Opus 4.7 and Sonnet 4.6 right to your terminal
 AI Coding Agents/CLI Tools,OpenAI Codex,https://openai.com/codex/,Cloud coding agent toolkit
 AI Coding Agents/CLI Tools,GitHub Copilot,https://github.com/features/copilot,Pair-programming assistant
-AI Coding Agents/CLI Tools,Claude Code,https://www.anthropic.com/claude-code,Anthropic terminal agent
 AI Coding Agents/CLI Tools,Gemini Code Assist,https://codeassist.google/,Google AI coding assistant
 AI Coding Agents/CLI Tools,Jules,https://jules.google/,Google Asynchronous Coding Agent
 AI Coding Agents/CLI Tools,Cognition - Devin,https://devin.ai/,An autonomous AI software engineer that can write run and test code
@@ -20,6 +20,8 @@ AI Coding Agents/CLI Tools,JetBrains Junie,https://www.jetbrains.com/junie/,Your
 AI Coding Agents/CLI Tools,Slate,https://randomlabs.ai/,A purpose built agent designed to work with you for long and hard coding tasks
 AI Coding Agents/CLI Tools,GitHub Copilot CLI,https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/,The power of GitHub Copilot coding agent directly to your terminal
 AI Coding Agents/CLI Tools,Codebuff,https://www.codebuff.com/,Works in your terminal to help you write and deeply understand your code
+AI Coding Agents/CLI Tools,CTO.new,https://www.cto.new/,Completely free AI code agent
+AI Coding Agents/CLI Tools,Kimi-CLI,https://www.kimi.com/coding/docs/en/kimi-cli.html,A new CLI agent that can help you with your software development tasks and terminal operations
 Open Source AI Coding Agents/CLI Tools,Aider,https://github.com/Aider-AI/aider,Terminal pair-programming
 Open Source AI Coding Agents/CLI Tools,Continue,https://continue.dev/,IDE extensions + CLI
 Open Source AI Coding Agents/CLI Tools,Cline,https://cline.bot/,Autonomous IDE agent
@@ -35,12 +37,14 @@ Open Source AI Coding Agents/CLI Tools,Vibe Kanban,https://vibekanban.com/,Orche
 Open Source AI Coding Agents/CLI Tools,Charm,https://charm.land/,A charming terminal agent your new coding bestie
 Open Source AI Coding Agents/CLI Tools,Goose,https://block.github.io/goose/,An open source extensible AI agent that goes beyond code suggestions
 Open Source AI Coding Agents/CLI Tools,DeepCode,https://github.com/HKUDS/DeepCode,Transforms research papers and natural language into production-ready code
+Open Source AI Coding Agents/CLI Tools,Mistral Vibe CLI,https://github.com/mistralai/mistral-vibe,Mistral Vibe is a command-line coding assistant powered by Mistral's models
 Desktop IDEs,Visual Studio Code,https://code.visualstudio.com/,
 Desktop IDEs,IntelliJ IDEA / PyCharm / WebStorm,https://www.jetbrains.com/idea/,
 Desktop IDEs,Xcode,https://developer.apple.com/xcode/,
 Desktop IDEs,Eclipse NetBeans,https://www.eclipse.org/eclipseide/,
 Desktop IDEs,Atom,https://atom-editor.cc/,Atom community fork
 Desktop IDEs,Blackbox IDE,https://www.blackbox.ai/,
+Cloud & AI-Powered IDEs,Google Antigravity,https://antigravity.google/,Agentic development platform evolving the IDE into the agent-first era
 Cloud & AI-Powered IDEs,Cursor,https://cursor.com/,AI-first VS Code fork
 Cloud & AI-Powered IDEs,Windsurf,https://windsurf.com/,Agentic IDE advanced AI coding assistant for developers and enterprises
 Cloud & AI-Powered IDEs,Zed,https://zed.dev/,High-performance Rust editor with AI chat
@@ -65,10 +69,13 @@ AI App Builders,Aura,https://aura.build/,Generate beautiful designs in seconds a
 AI App Builders,21st.dev,https://21st.dev/,Build products that reflect the team's own taste
 AI App Builders,Base44,https://base44.com/,Lets you build fully-functional apps in minutes with just your words
 AI App Builders,VibeFlow,https://vibeflow.ai/,YC backed transform your AI-generated frontend mockups into fully functional applications
-AI App Builders,Blink,https://blink.new/,Turn any idea into a beautiful working app in seconds
+AI App Builders,Blink.new,https://blink.new/,The world's first vibe coding platform that builds agentic AI apps
 AI App Builders,a0,https://a0.dev/,YC backed ship mobile apps to the App Store and Google Play with AI
 AI App Builders,Anything,https://www.createanything.com/,Create powerful apps & websites by chatting with AI
 AI App Builders,Rocket,https://www.rocket.new/,Think It. Type It. Launch It.
+AI App Builders,Google Build,https://aistudio.google.com/apps,Build your ideas with Gemini
+AI App Builders,Variant,https://variant.ai/,Gives your ideas room to grow...to branch remix and become what they're meant to be
+AI App Builders,sleek.design,https://sleek.design/,Design mobile apps in minutes
 Mobile AI App Builders,Rork,https://rork.com/,Builds complete cross-platform mobile apps using AI and React Native
 Mobile AI App Builders,Vibecode,https://www.vibecodeapp.com/,Create native apps in seconds with AI
 Mobile AI App Builders,bitrig,https://www.bitrig.app/,Build apps for your phone on your phone
@@ -77,6 +84,7 @@ Mobile AI App Builders,Gizmo,https://www.threads.com/@makegizmos/post/DNgfQtiu-D
 Mobile AI App Builders,Hivemind,https://apps.apple.com/us/app/hivemind-ai-chat-coding/id6446332488,The fastest & easiest way to chat & code with any AI in one app
 Mobile AI App Builders,Bloom,https://bloom.diy/,YC backed go from idea to native mobile app on your phone without writing a single line of code
 Mobile AI App Builders,Vibe Code Go,https://vibecodego.com/,YC backed code from your phone a mobile app for software engineers
+Open Source AI App Builders,Hugging Face DeepSite,https://huggingface.co/deepsite,Access the most simple and powerful AI Vibe Code Editor to create your next project
 Open Source AI App Builders,Dyad,https://github.com/dyad-sh/dyad,A local open-source AI app builder
 Open Source AI App Builders,Open Lovable,https://github.com/firecrawl/open-lovable,Clone and recreate any website as a modern React app in seconds
 Open Source AI App Builders,bolt.diy,https://github.com/stackblitz-labs/bolt.diy,Bolt.new OSS version AI-powered full-stack web dev for NodeJS based apps choose the LLM you use for each prompt
@@ -97,13 +105,42 @@ Other Useful AI DevTools,Vercel AI Gateway,https://vercel.com/blog/ai-gateway-is
 Other Useful AI DevTools,OpenRouter,https://openrouter.ai,A unified API providing access to hundreds of AI models through a single endpoint
 Other Useful AI DevTools,Fabric,https://github.com/danielmiessler/Fabric,An open-source modular system for solving specific problems using crowdsourced AI prompts that can be used anywhere
 Other Useful AI DevTools,Vibetunnel,https://vibetunnel.sh/,VibeTunnel proxies your terminals right into the browser so you can vibe-code anywhere
+Other Useful AI DevTools,Anannas,https://anannas.ai/,Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing cost control and instant usage insights
+Other Useful AI DevTools,CodeRabbit,https://www.coderabbit.ai,AI code reviews - cut code review time & bugs in half
+Other Useful AI DevTools,Giga AI,https://gigamind.dev/context,Giga's context engineering improves quality and understanding — so your AI works right the first time and you build faster
+Other Useful AI DevTools,Gas Town,https://github.com/steveyegge/gastown,Multi-agent orchestrator for Claude Code. Track work with convoys; sling to agents
+Coding Leaderboards,GDPval-AA,https://artificialanalysis.ai/evaluations/gdpval-aa,Artificial Analysis evaluation of OpenAI's GDPval dataset; tests AI agents on real-world knowledge work tasks across 44 occupations and 9 industries; ELO-ranked via blind pairwise comparisons
+Coding Leaderboards,Artificial Analysis Intelligence Index,https://artificialanalysis.ai/evaluations,Composite leaderboard independently measuring AI models across agents coding scientific reasoning and general knowledge; updated daily with live API performance data
+Coding Leaderboards,MirrorCode,https://epoch.ai/blog/mirrorcode-preliminary-results/,Epoch AI × METR a new long-horizon SWE benchmark measuring AI performance on weeks-long coding tasks
+Coding Leaderboards,Code Arena,https://arena.ai/leaderboard/code,Community-voted coding leaderboard with 200k+ votes ranking models on agentic coding tasks; covers web dev React HTML game development data visualization and image-to-code generation
 Coding Leaderboards,SWE-Bench Pro (Commercial Dataset),https://scale.com/leaderboard/swe_bench_pro_commercial,A new benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering
-Coding Leaderboards,Aider,https://aider.chat/docs/leaderboards/,Aider polyglot coding leaderboard
+Coding Leaderboards,SWE-Bench Pro (Public Dataset),https://scale.com/leaderboard/swe_bench_pro_public,Designed to provide a rigorous and realistic evaluation of AI agents for software engineering; addresses data contamination limited task diversity and unreliable testing
+Coding Leaderboards,SWE-bench Verified (Deprecated),https://www.swebench.com/,SWE-bench evaluates LLM performance on real world software issues collected from GitHub (Verified subset - deprecated)
 Coding Leaderboards,SWE-bench,https://www.swebench.com/,SWE-bench evaluates LLM performance on real world software issues collected from GitHub
+Coding Leaderboards,SWE-bench Multilingual,https://swe-bench.com/,300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
 Coding Leaderboards,SWE-rebench,https://swe-rebench.com/,A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
+Coding Leaderboards,Aider,https://aider.chat/docs/leaderboards/,Aider polyglot coding leaderboard
 Coding Leaderboards,OpenRouter,https://openrouter.ai/rankings,Model Market Share Use Case Categories and App Rankings
+Coding Leaderboards,ARC-AGI-2,https://arcprize.org/leaderboard,Stress testing the efficiency and capability of state-of-the-art AI reasoning systems
+Coding Leaderboards,Terminal-Bench@2.0,https://www.tbench.ai/leaderboard/terminal-bench/2.0,A benchmark measuring the capabilities of AI agents in a terminal environment
 Coding Leaderboards,Terminal-Bench,https://www.tbench.ai/leaderboard,A benchmark measuring the capabilities of AI agents in a terminal environment
+Coding Leaderboards,OSWorld,https://os-world.github.io/,Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 Coding Leaderboards,PR Arena,https://prarena.ai/,Software engineering agents head to head
 Coding Leaderboards,Multi-SWE-bench,https://multi-swe-bench.github.io/#/,A Multilingual Benchmark for Issue Resolving
 Coding Leaderboards,SWE-DEV,https://github.com/DorothyDUUU/SWE-Dev,Evaluating and Training Autonomous Feature-Driven Software Development
-SOURCE, joylarkin/AI-Coding-Landscape,https://github.com/joylarkin/AI-Coding-Landscape,"The 2025 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more"
+Coding Leaderboards,LiveCodeBench Pro,https://livecodebenchpro.com/,A benchmark composed of problems from Codeforces ICPC and IOI that are continuously updated to reduce data contamination
+Coding Leaderboards,LiveCodeBench,https://livecodebench.github.io/leaderboard.html,Holistic and Contamination Free Evaluation of Large Language Models for Code
+Coding Leaderboards,BigCodeArena,https://huggingface.co/spaces/bigcode/arena,A human-in-the-loop platform for evaluating code through execution
+Coding Leaderboards,Modu Merge Rate Leaderboard,https://www.askmodu.com/rankings,Real-world success rates: Ranking top coding agents by their pull request merge performance on Modu
+Coding Leaderboards,OpenBench Coding,https://openbench.dev/benchmarks/coding,An open-source framework for standardized reproducible benchmarking of large language models (LLMs)
+Coding Leaderboards,Context-Bench,https://leaderboard.letta.com/,A benchmark for agentic context engineering
+Coding Leaderboards,Repo Bench,https://repoprompt.com/bench,Measuring large context reasoning file editing precision and instruction adherence
+Coding Leaderboards,Vending-Bench 2,https://andonlabs.com/evals/vending-bench-2,Measuring AI model performance on running a business over long time horizons
+Coding Leaderboards,τ-bench / τ2-bench,https://taubench.com,Benchmarking AI agents in collaborative real-world scenarios
+Coding Leaderboards,Live-SWE-agent,https://live-swe-agent.github.io/,Can Software Engineering Agents Self-Evolve on the Fly?
+Coding Leaderboards,MCP Atlas,https://scale.com/leaderboard/mcp_atlas,Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)
+Coding Leaderboards,CORE-Bench Hard,https://hal.cs.princeton.edu/corebench_hard,Agent is given codebase of a published scientific paper and must install dependencies run the code and answer questions about the paper
+Coding Leaderboards,APEX-Agents,https://www.mercor.com/apex/apex-agents-leaderboard/,The AI Productivity Index for Agents measures whether frontier AI agents can execute long-horizon cross-application tasks across three jobs in professional services
+Developer Surveys,The state of AI coding in 2025: Adoption proficiency and transformation,https://stateof.themodernsoftware.dev/,The Modern Software Developer December 2025
+Developer Surveys,AI in Practice Survey 2025,https://theoryvc.com/ai-in-practice-survey-2025,Theory Ventures December 2025
+SOURCE, joylarkin/AI-Coding-Landscape,https://github.com/joylarkin/AI-Coding-Landscape,"The 2026 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more"
