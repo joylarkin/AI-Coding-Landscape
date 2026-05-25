@@ -22,6 +22,8 @@ AI Coding Agents/CLI Tools,GitHub Copilot CLI,https://github.blog/changelog/2025
 AI Coding Agents/CLI Tools,Codebuff,https://www.codebuff.com/,Works in your terminal to help you write and deeply understand your code
 AI Coding Agents/CLI Tools,CTO.new,https://www.cto.new/,Completely free AI code agent
 AI Coding Agents/CLI Tools,Kimi-CLI,https://www.kimi.com/coding/docs/en/kimi-cli.html,A new CLI agent that can help you with your software development tasks and terminal operations
+AI Coding Agents/CLI Tools,Antigravity CLI,https://antigravity.google,"Google's new terminal agent that replaced Gemini CLI at I/O 2026; Gemini 3-backed, async multi-agent workflows, SDK for custom agents"
+AI Coding Agents/CLI Tools,Cursor CLI,https://cursor.com/cli,"Cursor's terminal agent launched January 2026, includes Cloud Handoff between local and cloud"
 Open Source AI Coding Agents/CLI Tools,Aider,https://github.com/Aider-AI/aider,Terminal pair-programming
 Open Source AI Coding Agents/CLI Tools,Continue,https://continue.dev/,IDE extensions + CLI
 Open Source AI Coding Agents/CLI Tools,Cline,https://cline.bot/,Autonomous IDE agent
@@ -38,6 +40,8 @@ Open Source AI Coding Agents/CLI Tools,Charm,https://charm.land/,A charming term
 Open Source AI Coding Agents/CLI Tools,Goose,https://block.github.io/goose/,An open source extensible AI agent that goes beyond code suggestions
 Open Source AI Coding Agents/CLI Tools,DeepCode,https://github.com/HKUDS/DeepCode,Transforms research papers and natural language into production-ready code
 Open Source AI Coding Agents/CLI Tools,Mistral Vibe CLI,https://github.com/mistralai/mistral-vibe,Mistral Vibe is a command-line coding assistant powered by Mistral's models
+Open Source AI Coding Agents/CLI Tools,Crush,https://github.com/charmbracelet/crush,"Charm's TUI-first Go-based agent, multi-model with MCP + LSP support, source-available under FSL-1.1-MIT"
+Open Source AI Coding Agents/CLI Tools,CLIProxyAPI,https://github.com/router-for-me/CLIProxyAPI,"Wraps Gemini CLI, Antigravity, Codex, Claude Code, Grok Build as OpenAI/Gemini/Claude/Codex-compatible API, lets you use OAuth subscriptions through any SDK"
 Desktop IDEs,Visual Studio Code,https://code.visualstudio.com/,
 Desktop IDEs,IntelliJ IDEA / PyCharm / WebStorm,https://www.jetbrains.com/idea/,
 Desktop IDEs,Xcode,https://developer.apple.com/xcode/,
@@ -53,6 +57,7 @@ Cloud & AI-Powered IDEs,Trae,https://www.trae.ai/,ByteDance AI IDE
 Cloud & AI-Powered IDEs,Augment Code,https://www.augmentcode.com/,Developer AI platform that helps you understand code debug issues and ship faster
 Cloud & AI-Powered IDEs,Warp,https://www.warp.dev/,An agentic development environment
 Cloud & AI-Powered IDEs,Kiro,https://kiro.dev/,Helps you do your best work by bringing structure to AI coding with spec-driven development
+Cloud & AI-Powered IDEs,Nimbalyst,https://nimbalyst.com,"Open-source visual workspace for AI coding agents (Claude Code, Codex; OpenCode + Copilot in alpha); MIT-licensed desktop + iOS apps with kanban session management, inline AI diff review, parallel sessions with worktree isolation"
 AI App Builders,Bolt,https://bolt.new/,Browser-based AI app builder
 AI App Builders,Lovable,https://lovable.dev/,Chat-to-app builder
 AI App Builders,Replit,https://replit.com/,Cloud IDE w/ Ghostwriter
@@ -73,7 +78,7 @@ AI App Builders,Blink.new,https://blink.new/,The world's first vibe coding platf
 AI App Builders,a0,https://a0.dev/,YC backed ship mobile apps to the App Store and Google Play with AI
 AI App Builders,Anything,https://www.createanything.com/,Create powerful apps & websites by chatting with AI
 AI App Builders,Rocket,https://www.rocket.new/,Think It. Type It. Launch It.
-AI App Builders,Google Build,https://aistudio.google.com/apps,Build your ideas with Gemini
+AI App Builders,Google AI Studio,https://aistudio.google.com/apps,"Build your ideas with Gemini; I/O 2026 added Workspace integrations and new vibe coding capabilities"
 AI App Builders,Variant,https://variant.ai/,Gives your ideas room to grow...to branch remix and become what they're meant to be
 AI App Builders,sleek.design,https://sleek.design/,Design mobile apps in minutes
 Mobile AI App Builders,Rork,https://rork.com/,Builds complete cross-platform mobile apps using AI and React Native
@@ -93,6 +98,7 @@ Open Source AI App Builders,ToolJet,https://github.com/ToolJet/ToolJet,An open-s
 Open Source AI App Builders,Adorable,https://github.com/freestyle-sh/Adorable,Another open source Lovable version
 Open Source AI App Builders,Vercel,https://oss-vibe-coding-platform.vercel.app/,OSS Vibe Coding Platform
 Open Source AI App Builders,Cloudflare VibeSDK,https://build.cloudflare.dev/,Run an entire vibe coding platform end-to-end with just one click
+Open Source AI App Builders,Pythagora,https://github.com/Pythagora-io/gpt-pilot,"VS Code-native AI dev platform with 14 specialized agents for planning, coding, debugging, and one-click deployment of React + Node apps"
 Other Useful AI DevTools,Ollama,https://ollama.com/,Chat & build with open models
 Other Useful AI DevTools,LM Studio,https://lmstudio.ai/,Run gpt-oss Qwen Gemma DeepSeek on your computer
 Other Useful AI DevTools,Open WebUI,https://openwebui.com/,Self-hosted AI platform designed to operate entirely offline
@@ -108,7 +114,19 @@ Other Useful AI DevTools,Vibetunnel,https://vibetunnel.sh/,VibeTunnel proxies yo
 Other Useful AI DevTools,Anannas,https://anannas.ai/,Single API to access any LLM - Seamlessly connect to multiple models through a single gateway with failproof routing cost control and instant usage insights
 Other Useful AI DevTools,CodeRabbit,https://www.coderabbit.ai,AI code reviews - cut code review time & bugs in half
 Other Useful AI DevTools,Giga AI,https://gigamind.dev/context,Giga's context engineering improves quality and understanding — so your AI works right the first time and you build faster
-Other Useful AI DevTools,Gas Town,https://github.com/steveyegge/gastown,Multi-agent orchestrator for Claude Code. Track work with convoys; sling to agents
+Other Useful AI DevTools,Gas Town,https://github.com/steveyegge/gastown,"Multi-agent orchestrator for Claude Code. Track work with convoys; sling to agents"
+Other Useful AI DevTools,Claude Code Plugin Marketplace,https://github.com/anthropics/claude-plugins-official,"Anthropic's official directory; plugins bundle skills, MCP servers, hooks, and slash commands. SKILL.md format adopted by OpenAI Codex CLI as an open standard"
+Other Useful AI DevTools,Anthropic Agent Skills,https://github.com/anthropics/skills,"Public Anthropic skills repo for PDF, Excel, PowerPoint, Word, MCP generation, and more"
+Other Useful AI DevTools,wshobson/agents,https://github.com/wshobson/agents,"Multi-harness plugin marketplace with 82 plugins, 191 agents, 155 skills, 102 commands; one source-of-truth, runs natively on Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI"
+Other Useful AI DevTools,Superpowers,https://github.com/obra/superpowers,"Agentic skills framework + software dev methodology by Jesse Vincent; enforces brainstorming → planning → TDD → subagent-driven implementation → review; works across Claude Code, Codex CLI, Codex App, Factory Droid, Gemini CLI, OpenCode, Cursor, and GitHub Copilot CLI"
+Other Useful AI DevTools,claudemarketplaces.com,https://claudemarketplaces.com,"Community-curated directory of Claude Code skills, plugins, and MCP servers"
+Other Useful AI DevTools,SkillsMP,https://skillsmp.com,"Community marketplace for agent skills across Claude Code, Codex CLI, and ChatGPT"
+Other Useful AI DevTools,claude-devtools,https://github.com/matt1398/claude-devtools,"Free open-source desktop app reading ~/.claude/ session logs; per-turn token attribution across 7 context categories, subagent execution trees, syntax-highlighted diffs, multi-session compare"
+Other Useful AI DevTools,Chrome DevTools MCP,https://github.com/ChromeDevTools/chrome-devtools-mcp,"Google's official MCP server giving AI agents access to Chrome DevTools for page inspection, performance insights, and debugging"
+Other Useful AI DevTools,Datadog MCP Server,https://docs.datadoghq.com/bits_ai/mcp_server/,"GA March 2026; live logs, metrics, and traces into Claude Code, Cursor, Codex, and Copilot"
+Other Useful AI DevTools,Honeycomb MCP,https://www.honeycomb.io,Observability platform with expanded MCP integrations across AI coding tools (March 2026)
+Other Useful AI DevTools,AgentOps,https://www.agentops.ai,"YC W24 open-source agent engineering platform; session replay, cost tracking, failure detection across CrewAI, LangGraph, OpenAI Agents SDK"
+Other Useful AI DevTools,Sim,https://www.sim.ai,"YC X25 ($7M Series A) open-source (Apache 2.0) visual drag-and-drop agent workflow builder; 27K+ GitHub stars; AI-native alternative to n8n and Langflow"
 Coding Leaderboards,GDPval-AA,https://artificialanalysis.ai/evaluations/gdpval-aa,Artificial Analysis evaluation of OpenAI's GDPval dataset; tests AI agents on real-world knowledge work tasks across 44 occupations and 9 industries; ELO-ranked via blind pairwise comparisons
 Coding Leaderboards,Artificial Analysis Intelligence Index,https://artificialanalysis.ai/evaluations,Composite leaderboard independently measuring AI models across agents coding scientific reasoning and general knowledge; updated daily with live API performance data
 Coding Leaderboards,MirrorCode,https://epoch.ai/blog/mirrorcode-preliminary-results/,Epoch AI × METR a new long-horizon SWE benchmark measuring AI performance on weeks-long coding tasks
@@ -117,7 +135,8 @@ Coding Leaderboards,SWE-Bench Pro (Commercial Dataset),https://scale.com/leaderb
 Coding Leaderboards,SWE-Bench Pro (Public Dataset),https://scale.com/leaderboard/swe_bench_pro_public,Designed to provide a rigorous and realistic evaluation of AI agents for software engineering; addresses data contamination limited task diversity and unreliable testing
 Coding Leaderboards,SWE-bench Verified (Deprecated),https://www.swebench.com/,SWE-bench evaluates LLM performance on real world software issues collected from GitHub (Verified subset - deprecated)
 Coding Leaderboards,SWE-bench,https://www.swebench.com/,SWE-bench evaluates LLM performance on real world software issues collected from GitHub
-Coding Leaderboards,SWE-bench Multilingual,https://swe-bench.com/,300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages
+Coding Leaderboards,SWE-bench Multilingual,https://swe-bench.com/,"300 curated SWE-bench style tasks from 42 repositories representing 9 programming languages"
+Coding Leaderboards,SWE-bench-Live,https://swe-bench-live.github.io,"Monthly-refreshed benchmark with 50 new verified issues added per month; now includes Windows split and Multi-Lang (C/C++/C#/Go/JS/TS/Rust)"
 Coding Leaderboards,SWE-rebench,https://swe-rebench.com/,A Continuously Evolving and Decontaminated Benchmark for Software Engineering LLMs
 Coding Leaderboards,Aider,https://aider.chat/docs/leaderboards/,Aider polyglot coding leaderboard
 Coding Leaderboards,OpenRouter,https://openrouter.ai/rankings,Model Market Share Use Case Categories and App Rankings
@@ -141,6 +160,9 @@ Coding Leaderboards,Live-SWE-agent,https://live-swe-agent.github.io/,Can Softwar
 Coding Leaderboards,MCP Atlas,https://scale.com/leaderboard/mcp_atlas,Evaluates how well language models handle real-world tool use through the Model Context Protocol (MCP)
 Coding Leaderboards,CORE-Bench Hard,https://hal.cs.princeton.edu/corebench_hard,Agent is given codebase of a published scientific paper and must install dependencies run the code and answer questions about the paper
 Coding Leaderboards,APEX-Agents,https://www.mercor.com/apex/apex-agents-leaderboard/,The AI Productivity Index for Agents measures whether frontier AI agents can execute long-horizon cross-application tasks across three jobs in professional services
-Developer Surveys,The state of AI coding in 2025: Adoption proficiency and transformation,https://stateof.themodernsoftware.dev/,The Modern Software Developer December 2025
-Developer Surveys,AI in Practice Survey 2025,https://theoryvc.com/ai-in-practice-survey-2025,Theory Ventures December 2025
+Developer Surveys,Sonar State of Code Developer Survey 2026,https://www.sonarsource.com/state-of-code-developer-survey-report.pdf,"n=1,149; Copilot 75%, ChatGPT 74%, Claude 48%, Gemini 31%, Cursor 21%"
+Developer Surveys,JetBrains AI Pulse Survey + Developer Ecosystem Survey 2026,https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/,"10,000+ professional developers (January 2026); tracks Claude Code, Cursor, JetBrains AI Assistant, Junie, GitHub Copilot, Codex, and Antigravity for awareness, adoption, and satisfaction"
+Developer Surveys,The state of AI coding in 2025: Adoption proficiency and transformation,https://stateof.themodernsoftware.dev/,"The Modern Software Developer, December 2025"
+Developer Surveys,AI in Practice Survey 2025,https://theoryvc.com/ai-in-practice-survey-2025,"Theory Ventures, December 2025"
+Developer Surveys,Stack Overflow 2025 Developer Survey,https://survey.stackoverflow.co/2025,"84% adoption or planning; trust metrics dropping (33% trust, 46% distrust AI output)"
 SOURCE, joylarkin/AI-Coding-Landscape,https://github.com/joylarkin/AI-Coding-Landscape,"The 2026 AI Coding Landscape - Coding agents, CLIs, IDEs, AI app builders, devtools, and more"
