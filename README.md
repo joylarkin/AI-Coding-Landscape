@@ -138,7 +138,6 @@ OR
 <p><code> <a href="https://lovable.dev/?utm_source=ai-coding-landscape" target="_blank">Lovable</a> - Chat-to-app builder; hit $300M ARR by January 2026</code></p>
 <p><code> <a href="https://replit.com/?utm_source=ai-coding-landscape" target="_blank">Replit</a> - Cloud IDE w/ Ghostwriter; $400M Series D at $9B valuation (March 2026)</code></p>
 <p><code> <a href="https://v0.dev/?utm_source=ai-coding-landscape" target="_blank">v0.dev</a> - Vercel text-to-UI generator</code></p>
-<p><code> <a href="https://getmocha.com/?utm_source=ai-coding-landscape" target="_blank">Mocha</a> - YC-backed no-code app builder</code></p>
 <p><code> <a href="https://nectry.com/?utm_source=ai-coding-landscape" target="_blank">Nectry</a> - Responsible vibe coding for the enterprise</code></p>
 <p><code> <a href="https://reflex.dev/?utm_source=ai-coding-landscape" target="_blank">Reflex</a> - From prompt to production, build and deploy Python apps</code></p>
 <p><code> <a href="https://www.superblocks.com/?utm_source=ai-coding-landscape" target="_blank">Superblocks</a> - Build secure internal apps with AI</code></p>
