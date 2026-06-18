@@ -208,6 +208,7 @@ OR
 <p><code> <a href="https://unsloth.ai/?utm_source=ai-coding-landscape" target="_blank">Unsloth</a> - An open-source framework for LLM fine-tuning and reinforcement learning</code></p>
 <p><code> <a href="https://n8n.io/?utm_source=ai-coding-landscape" target="_blank">n8n</a> - Flexible AI workflow automation for technical teams</code></p>
 <p><code> <a href="https://firecrawl.dev/?utm_source=ai-coding-landscape" target="_blank">Firecrawl</a> - Turn websites into LLM-ready data</code></p> 
+<p><code> <a href="https://pvrlabs.xyz/aibadger?utm_source=ai-coding-landscape" target="_blank">AI Badger</a> - Local-first CLI that maps your codebase and extracts focused file context for AI chats. Works with ChatGPT, Claude, Gemini, and other assistants without cloud indexing, API keys, or vendor lock-in </code></p>
 <p><code> <a href="https://agents.md/?utm_source=ai-coding-landscape" target="_blank">Agents.md</a> - A simple, open format for guiding coding agents, used by over 20k open-source projects</code></p> 
 <p><code> <a href="https://vercel.com/blog/ai-gateway-is-now-generally-available?utm_source=ai-coding-landscape" target="_blank">Vercel AI Gateway</a> - A gateway to access hundreds of models with zero markup on tokens (including BYOK)</code></p> 
 <p><code> <a href="https://openrouter.ai?utm_source=ai-coding-landscape" target="_blank">OpenRouter</a> - A unified API providing access to hundreds of AI models through a single endpoint</code></p>
