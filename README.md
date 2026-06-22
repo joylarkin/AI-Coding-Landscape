@@ -91,6 +91,7 @@ OR
 <p><code> <a href="https://github.com/All-Hands-AI/OpenHands?utm_source=ai-coding-landscape" target="_blank">OpenHands</a> - Multi-tool coding agent</code></p>
 <p><code> <a href="https://github.com/QwenLM/qwen-code?utm_source=ai-coding-landscape" target="_blank">Qwen Code</a> - A command-line AI workflow tool for Qwen3-Coder</code></p>
 <p><code> <a href="https://github.com/intellectronica/ruler?utm_source=ai-coding-landscape" target="_blank">Ruler</a> - Central AI agent rule registry</code></p>
+<p><code> <a href="https://github.com/looptroop-ai/LoopTroop?utm_source=ai-coding-landscape" target="_blank">LoopTroop</a> - Open-source local AI coding orchestrator with LLM Council consensus, Beads-inspired task decomposition, and worktree isolation for reliable autonomous execution</code></p>
 <p><code> <a href="https://github.com/opencode-ai/opencode?utm_source=ai-coding-landscape" target="_blank">OpenCode</a> - OSS terminal assistant; 150K+ GitHub stars and 6.5M+ MAU as of April 2026, with GitHub Copilot auth partnership (Jan 2026)</code></p>
 <p><code> <a href="https://vibekanban.com/?utm_source=ai-coding-landscape" target="_blank">Vibe Kanban</a> - Orchestrate multiple agents</code></p>
 <p><code> <a href="https://charm.land/?utm_source=ai-coding-landscape" target="_blank">Charm</a> - A charming terminal agent, your new coding bestie</code></p>
