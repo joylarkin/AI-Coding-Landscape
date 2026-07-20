@@ -42,6 +42,7 @@ Open Source AI Coding Agents/CLI Tools,DeepCode,https://github.com/HKUDS/DeepCod
 Open Source AI Coding Agents/CLI Tools,Mistral Vibe CLI,https://github.com/mistralai/mistral-vibe?utm_source=ai-coding-landscape,Mistral Vibe is a command-line coding assistant powered by Mistral's models
 Open Source AI Coding Agents/CLI Tools,Crush,https://github.com/charmbracelet/crush?utm_source=ai-coding-landscape,"Charm's TUI-first Go-based agent, multi-model with MCP + LSP support, source-available under FSL-1.1-MIT"
 Open Source AI Coding Agents/CLI Tools,CLIProxyAPI,https://github.com/router-for-me/CLIProxyAPI?utm_source=ai-coding-landscape,"Wraps Gemini CLI, Antigravity, Codex, Claude Code, Grok Build as OpenAI/Gemini/Claude/Codex-compatible API, lets you use OAuth subscriptions through any SDK"
+Open Source AI Coding Agents/CLI Tools,Alex,https://github.com/madhavajay/alex?utm_source=ai-coding-landscape,"Local Rust proxy with an optional UI that routes coding agents across providers, with local trace capture, scriptable middleware, subscription bonding, failover, and messenger-assisted re-authentication"
 Desktop IDEs,Visual Studio Code,https://code.visualstudio.com/?utm_source=ai-coding-landscape,
 Desktop IDEs,IntelliJ IDEA / PyCharm / WebStorm,https://www.jetbrains.com/idea/?utm_source=ai-coding-landscape,
 Desktop IDEs,Xcode,https://developer.apple.com/xcode/?utm_source=ai-coding-landscape,

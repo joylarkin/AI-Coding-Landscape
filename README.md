@@ -99,6 +99,7 @@ OR
 <p><code> <a href="https://github.com/mistralai/mistral-vibe?utm_source=ai-coding-landscape" target="_blank">Mistral Vibe CLI</a> - Mistral Vibe is a command-line coding assistant powered by Mistral's models</code></p>
 <p><code> <a href="https://github.com/charmbracelet/crush?utm_source=ai-coding-landscape" target="_blank">Crush</a> - Charm's TUI-first Go-based agent, multi-model with MCP + LSP support, source-available under FSL-1.1-MIT </code></p>
 <p><code> <a href="https://github.com/router-for-me/CLIProxyAPI?utm_source=ai-coding-landscape" target="_blank">CLIProxyAPI</a> - Wraps Gemini CLI, Antigravity, Codex, Claude Code, Grok Build as OpenAI/Gemini/Claude/Codex-compatible API, lets you use OAuth subscriptions through any SDK </code></p>
+<p><code> <a href="https://github.com/madhavajay/alex?utm_source=ai-coding-landscape" target="_blank">Alex</a> - Local Rust proxy with an optional UI that routes coding agents across providers, with local trace capture, scriptable middleware, subscription bonding, failover, and messenger-assisted re-authentication</code></p>
 
 
 <br /><br />
