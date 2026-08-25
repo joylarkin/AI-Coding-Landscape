@@ -48,7 +48,7 @@ OR
 
 <h3 id="coding-agents"><code>AI Coding Agents/CLI Tools</code></h3>
 
-<p><code> <a href="https://claude.com/product/claude-code?utm_source=ai-coding-landscape" target="_blank">Claude Code</a> - Anthropic's coding agent for the terminal, desktop, and Web. Runs Opus 5 and Sonnet 5; supports subagents, agent teams, skills, hooks, and a plugin marketplace (Code with Claude 2026) </code></p>
+<p><code> <a href="https://claude.com/product/claude-code?utm_source=ai-coding-landscape" target="_blank">Claude Code</a> - Anthropic's coding agent for the terminal, desktop, and Web. Runs Opus 5, Sonnet 5, and Fable 5; supports subagents, agent teams, skills, hooks, and a plugin marketplace (Code with Claude 2026) </code></p>
 <p><code> <a href="https://openai.com/codex/?utm_source=ai-coding-landscape" target="_blank">OpenAI Codex</a> - OpenAI's coding agent for app, CLI, IDE, and Web, powered by GPT-5.6</code></p>
 <p><code> <a href="https://developer.meta.com/ai/products/muse-code/?utm_source=ai-coding-landscape" target="_blank">Muse Code</a> - Meta's first terminal coding agent (beta, August 2026), powered by Muse Spark 1.2; persistent async background subagents and bundled /plan, /grill, and /goal skills; macOS and Linux, one-line install</code></p>
 <p><code> <a href="https://github.com/features/copilot?utm_source=ai-coding-landscape" target="_blank">GitHub Copilot</a> - Pair-programming assistant</code></p>
