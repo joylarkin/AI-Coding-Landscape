@@ -48,8 +48,9 @@ OR
 
 <h3 id="coding-agents"><code>AI Coding Agents/CLI Tools</code></h3>
 
-<p><code> <a href="https://claude.com/product/claude-code?utm_source=ai-coding-landscape" target="_blank">Claude Code</a> - Anthropic terminal agent, bring Opus 4.7 and Sonnet 4.6 right to your terminal </code></p>
-<p><code> <a href="https://openai.com/codex/?utm_source=ai-coding-landscape" target="_blank">OpenAI Codex</a> - Cloud coding agent toolkit</code></p>
+<p><code> <a href="https://claude.com/product/claude-code?utm_source=ai-coding-landscape" target="_blank">Claude Code</a> - Anthropic's coding agent for the terminal, desktop, and Web. Runs Opus 5, Sonnet 5, and Fable 5; supports subagents, agent teams, skills, hooks, and a plugin marketplace (Code with Claude 2026) </code></p>
+<p><code> <a href="https://openai.com/codex/?utm_source=ai-coding-landscape" target="_blank">OpenAI Codex</a> - OpenAI's coding agent for app, CLI, IDE, and Web, powered by GPT-5.6</code></p>
+<p><code> <a href="https://developer.meta.com/ai/products/muse-code/?utm_source=ai-coding-landscape" target="_blank">Muse Code</a> - Meta's first terminal coding agent (beta, August 2026), powered by Muse Spark 1.2; persistent async background subagents and bundled /plan, /grill, and /goal skills; macOS and Linux, one-line install</code></p>
 <p><code> <a href="https://github.com/features/copilot?utm_source=ai-coding-landscape" target="_blank">GitHub Copilot</a> - Pair-programming assistant</code></p>
 <p><code> <a href="https://codeassist.google/?utm_source=ai-coding-landscape" target="_blank">Gemini Code Assist</a> - Google AI coding assistant</code></p>
 <p><code> <a href="https://jules.google/?utm_source=ai-coding-landscape" target="_blank">Jules</a> - Google Asynchronous Coding Agent</code></p>
@@ -64,7 +65,7 @@ OR
 <p><code> <a href="https://www.blackbox.ai/?utm_source=ai-coding-landscape" target="_blank">Blackbox AI</a> - New Autonomous AI Coding Agent</code></p>
 <p><code> <a href="https://forgecode.dev?utm_source=ai-coding-landscape" target="_blank">Forge Code</a> - An AI software engineering agent that runs in your terminal</code></p>
 <p><code> <a href="https://www.factory.ai/?utm_source=ai-coding-landscape" target="_blank">Factory</a> - Delegate software development tasks to agents called Droids</code></p>
-<p><code> <a href="https://docs.replit.com/replitai/agent?utm_source=ai-coding-landscape" target="_blank">Replit Agent</a> - Set up and create apps from scratch, works with any framework</code></p>
+<p><code> <a href="https://docs.replit.com/replitai/agent?utm_source=ai-coding-landscape" target="_blank">Replit Agent</a> - Set up and create apps from scratch, works with any framework; Agent 4 (March 2026) adds parallel task forking</code></p>
 <p><code> <a href="https://www.jetbrains.com/junie/?utm_source=ai-coding-landscape" target="_blank">JetBrains Junie</a> - Your smart coding agent</code></p>
 <p><code> <a href="https://randomlabs.ai/?utm_source=ai-coding-landscape" target="_blank">Slate</a> - A purpose built agent designed to work with you for long and hard coding tasks</code></p>
 <p><code> <a href="https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/?utm_source=ai-coding-landscape" target="_blank">GitHub Copilot CLI</a> - The power of GitHub Copilot coding agent directly to your terminal</code></p>
@@ -97,8 +98,10 @@ OR
 <p><code> <a href="https://block.github.io/goose/?utm_source=ai-coding-landscape" target="_blank">Goose</a> - An open source, extensible AI agent that goes beyond code suggestions</code></p>
 <p><code> <a href="https://github.com/HKUDS/DeepCode?utm_source=ai-coding-landscape" target="_blank">DeepCode</a> - Transforms research papers and natural language into production-ready code</code></p>
 <p><code> <a href="https://github.com/mistralai/mistral-vibe?utm_source=ai-coding-landscape" target="_blank">Mistral Vibe CLI</a> - Mistral Vibe is a command-line coding assistant powered by Mistral's models</code></p>
+<p><code> <a href="https://github.com/Hmbown/CodeWhale?utm_source=ai-coding-landscape" target="_blank">CodeWhale</a> - Open-source terminal coding agent (formerly DeepSeek TUI); edits files, runs shell commands, and manages git with approval gates or full auto mode; DeepSeek-first with multi-provider routing, MCP support, subagents, LSP diagnostics, and a headless HTTP/SSE API for CI and editor integration</code></p>
 <p><code> <a href="https://github.com/charmbracelet/crush?utm_source=ai-coding-landscape" target="_blank">Crush</a> - Charm's TUI-first Go-based agent, multi-model with MCP + LSP support, source-available under FSL-1.1-MIT </code></p>
 <p><code> <a href="https://github.com/router-for-me/CLIProxyAPI?utm_source=ai-coding-landscape" target="_blank">CLIProxyAPI</a> - Wraps Gemini CLI, Antigravity, Codex, Claude Code, Grok Build as OpenAI/Gemini/Claude/Codex-compatible API, lets you use OAuth subscriptions through any SDK </code></p>
+<p><code> <a href="https://x.ai/cli?utm_source=ai-coding-landscape" target="_blank">Grok Build</a> - xAI's terminal coding agent and CLI, launched May 2026 in early beta, open sourced July 2026; powered by grok-build, with plan mode, up to 8 parallel subagents, 2M-token context, MCP support, and compatibility with AGENTS.md, plugins, hooks, and skills</code></p>
 
 
 <br /><br />
@@ -128,6 +131,7 @@ OR
 <p><code> <a href="https://www.warp.dev/?utm_source=ai-coding-landscape" target="_blank">Warp</a> - An agentic development environment</code></p>
 <p><code> <a href="https://kiro.dev/?utm_source=ai-coding-landscape" target="_blank">Kiro</a> - Helps you do your best work by bringing structure to AI coding with spec-driven development</code></p>
 <p><code> <a href="https://nimbalyst.com?utm_source=ai-coding-landscape" target="_blank">Nimbalyst</a> - Open-source visual workspace for AI coding agents (Claude Code, Codex; OpenCode + Copilot in alpha); MIT-licensed desktop + iOS apps with kanban session management, inline AI diff review, parallel sessions with worktree isolation</code></p>
+<p><code> <a href="https://zcode.z.ai/en?utm_source=ai-coding-landscape" target="_blank">ZCode</a> - Free desktop coding harness from Z.ai, optimized for GLM-5.2; macOS, Windows, and Linux; supports Goals for long-running multi-step tasks, bot control from WeChat, Feishu, or Telegram, and 20+ coding tools</code></p>
 
 
 <br /><br />
@@ -226,6 +230,7 @@ OR
 <p><code> <a href="https://skillsmp.com?utm_source=ai-coding-landscape" target="_blank">SkillsMP</a> - Community marketplace for agent skills across Claude Code, Codex CLI, and ChatGPT</code></p>
 <p><code> <a href="https://github.com/matt1398/claude-devtools?utm_source=ai-coding-landscape" target="_blank">claude-devtools</a> - Free open-source desktop app reading ~/.claude/ session logs; per-turn token attribution across 7 context categories, subagent execution trees, syntax-highlighted diffs, multi-session compare</code></p>
 <p><code> <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp?utm_source=ai-coding-landscape" target="_blank">Chrome DevTools MCP</a> - Google's official MCP server giving AI agents access to Chrome DevTools for page inspection, performance insights, and debugging</code></p>
+<p><code> <a href="https://www.browserbase.com/blog/introducing-browserbase-agents?utm_source=ai-coding-landscape" target="_blank">Browserbase Agents</a> - Managed browser agent platform from Browserbase (June 2026); create an agent from a natural language prompt and run it with a single API call, no script per site; runs on infrastructure behind 35M+ browser sessions a month; agents tune over time to run faster, debug their own failed runs, and refactor as tasks grow</code></p>
 <p><code> <a href="https://docs.datadoghq.com/bits_ai/mcp_server/?utm_source=ai-coding-landscape" target="_blank">Datadog MCP Server</a> - GA March 2026; live logs, metrics, and traces into Claude Code, Cursor, Codex, and Copilot</code></p>
 <p><code> <a href="https://www.honeycomb.io?utm_source=ai-coding-landscape" target="_blank">Honeycomb MCP</a> - Observability platform with expanded MCP integrations across AI coding tools (March 2026)</code></p>
 <p><code> <a href="https://www.agentops.ai?utm_source=ai-coding-landscape" target="_blank">AgentOps</a> - YC W24 open-source agent engineering platform; session replay, cost tracking, failure detection across CrewAI, LangGraph, OpenAI Agents SDK</code></p>
