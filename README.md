@@ -336,6 +336,14 @@ OR
 
 
 <br /><br />
+<h3><code>September 2026</code></h3>
+
+<p><code> <a href="https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=ai-coding-landscape" target="_blank">Claude Fable 5.1</a> - Anthropic, released September 1, 2026 as the successor to Fable 5; Anthropic's most capable widely released model for coding, knowledge work, and long-horizon agentic tasks; 1M token context window with 128K max output; thinking is always on with effort levels from low through max; $10/$50 per million input/output tokens </code></p>
+
+<p><code> <a href="https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=ai-coding-landscape" target="_blank">Claude Mythos 5.1</a> - Anthropic, released September 1, 2026 alongside Fable 5.1; same capabilities, pricing, and API surface as Fable 5.1, available only to vetted users through Anthropic's Project Glasswing trusted access program </code></p>
+
+
+<br /><br />
 <h3><code>May 2026</code></h3>
 
 <p><code> <a href="https://openai.com?utm_source=ai-coding-landscape" target="_blank">GPT-5.5 Instant</a> - OpenAI, became ChatGPT default May 5, 2026; replaced GPT-5.4 Instant as the default-tier model hundreds of millions of users interact with daily </code></p>
