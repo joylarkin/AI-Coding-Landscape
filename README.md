@@ -392,6 +392,28 @@ OR
 
 
 <br /><br />
+<h3><code>June 2026</code></h3>
+
+<p><code> <a href="https://www.anthropic.com/news/claude-sonnet-5" target="_blank">Claude Sonnet 5</a> - Anthropic, June 30, 2026; most agentic Sonnet yet, with performance close to Opus 4.8 at a lower price; default model for Free and Pro plans, also available in Claude Code and the Claude Platform; cyber safeguards enabled by default but substantially weaker cyber capabilities than Opus 4.8 and Mythos 5; introductory pricing $2/$10 per million tokens through August 31, 2026, then $3/$15 </code></p>
+
+<p><code> <a href="https://longcat.chat/blog/longcat-2.0" target="_blank">LongCat-2.0</a> - Meituan, June 30, 2026; 1.6T-parameter MoE coding and agentic model with ~48B activated parameters per token, a 1M-token context window via LongCat Sparse Attention, and 35T+ pretraining tokens; trained entirely on a 50,000-card domestic AI ASIC cluster with no Nvidia hardware, a first at this scale for non-Nvidia training; previously ran anonymously on OpenRouter as "Owl Alpha," where it led developer usage charts for two months; 59.5 SWE-Bench Pro, 70.8 Terminal-Bench 2.1, 77.3 SWE-Bench Multilingual; MIT licensed; API priced at $0.75/$2.95 per million tokens with no charge for cache hits </code></p>
+
+<p><code> <a href="https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B" target="_blank">Qwen-AgentWorld</a> - Qwen (Alibaba), June 23, 2026; not a coding model but a world model for simulating coding and agent environments; predicts the next environment state given an agent's action and history across seven domains including Terminal, SWE, Web, and OS; built on Qwen3.5-35B-A3B-Base, 35B total / 3B active, 262K context, Apache 2.0; a larger 397B-A17B variant tops its own AgentWorldBench; useful for training and evaluating coding agents rather than writing code directly </code></p>
+
+<p><code> <a href="https://sakana.ai/fugu/" target="_blank">Sakana Fugu</a> - Sakana AI, June 22, 2026; not a standalone model but a multi-agent orchestration system delivered as one OpenAI-compatible API, shipping in two tiers (Fugu and Fugu Ultra); dynamically assembles and coordinates a pool of existing frontier models per task, drawing on two ICLR 2026 papers (TRINITY and Conductor) on learned model orchestration; reports SWE-Bench Pro 73.7 and TerminalBench 2.1 82.1 for Fugu Ultra, though benchmarks compare the orchestrated ensemble against single frontier models and the underlying model pool is proprietary and undisclosed; positioned explicitly as frontier capability without export-control exposure; Fugu Ultra priced at $5/$30 per million tokens; not available in the EU/EEA </code></p>
+
+<p><code> <a href="https://huggingface.co/zai-org/GLM-5.2" target="_blank">GLM-5.2</a> - Z.ai (Zhipu), launched June 13, 2026 with MIT open weights released June 16; flagship long-horizon and coding model in the GLM-5 family; 744B-parameter MoE with ~40B active per token and a solid 1M-token context window; introduces IndexShare, which reuses one indexer across every four sparse attention layers to cut per-token FLOPs by 2.9x at 1M context, plus an improved MTP layer that lifts speculative-decoding acceptance length by up to 20%; multiple thinking-effort levels (High and Max); 62.1 SWE-bench Pro, 81.0 Terminal-Bench 2.1, 63.7 ProgramBench; no regional limits </code></p>
+
+<p><code> <a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code" target="_blank">Kimi K2.7 Code</a> - Moonshot AI, June 12, 2026; coding-focused agentic model built on Kimi K2.6; 1T total / 32B active MoE with 256K context, native INT4 quantization, and multimodal input (image and video) via a 400M-parameter MoonViT vision encoder; improves long-horizon coding task completion while cutting thinking-token usage roughly 30% versus K2.6; open weights under Modified MIT License </code></p>
+
+<p><code> <a href="https://huggingface.co/CohereLabs/North-Mini-Code-1.0" target="_blank">North Mini Code 1.0</a> - Cohere Labs, June 9, 2026; 30B total / 3B active open-weight MoE model optimized for code generation, agentic software engineering, and terminal tasks; 256K context window with 64K max output; decoder-only sparse MoE using interleaved sliding-window and global attention; post-trained with cascaded SFT followed by reinforcement learning with verifiable rewards (RLVR); released under Apache 2.0 </code></p>
+
+<p><code> <a href="https://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/" target="_blank">Nemotron 3 Ultra</a> - NVIDIA, June 4, 2026; 550B total parameters, 55B active; open-weight hybrid Mamba-Transformer MoE built for long-running agentic coding and orchestration workflows; scores 48 on the Artificial Analysis Intelligence Index, making it the highest-scoring open-weight model from a US lab at release; 65–70.4% on SWE-bench Verified; up to 5x higher inference throughput than comparable open models; weights, training recipes, and quantized variants all released publicly </code></p>
+
+<p><code> <a href="https://www.minimaxi.com" target="_blank">MiniMax M3</a> - MiniMax, June 1, 2026; first open-weight model to combine frontier-level coding, a 1M-token context window, and native multimodal input (text, image, video) in a single architecture; uses new MiniMax Sparse Attention (MSA) design; 59.0% SWE-Bench Pro; API live at launch, open weights committed to Hugging Face and GitHub within ten days </code></p>
+
+
+<br /><br />
 <h3><code>May 2026</code></h3>
 
 <p><code> <a href="https://openai.com?utm_source=ai-coding-landscape" target="_blank">GPT-5.5 Instant</a> - OpenAI, became ChatGPT default May 5, 2026; replaced GPT-5.4 Instant as the default-tier model hundreds of millions of users interact with daily </code></p>
