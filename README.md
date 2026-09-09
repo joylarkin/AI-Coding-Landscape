@@ -102,6 +102,7 @@ OR
 <p><code> <a href="https://github.com/charmbracelet/crush?utm_source=ai-coding-landscape" target="_blank">Crush</a> - Charm's TUI-first Go-based agent, multi-model with MCP + LSP support, source-available under FSL-1.1-MIT </code></p>
 <p><code> <a href="https://github.com/router-for-me/CLIProxyAPI?utm_source=ai-coding-landscape" target="_blank">CLIProxyAPI</a> - Wraps Gemini CLI, Antigravity, Codex, Claude Code, Grok Build as OpenAI/Gemini/Claude/Codex-compatible API, lets you use OAuth subscriptions through any SDK </code></p>
 <p><code> <a href="https://x.ai/cli?utm_source=ai-coding-landscape" target="_blank">Grok Build</a> - xAI's terminal coding agent and CLI, launched May 2026 in early beta, open sourced July 2026; powered by grok-build, with plan mode, up to 8 parallel subagents, 2M-token context, MCP support, and compatibility with AGENTS.md, plugins, hooks, and skills</code></p>
+<p><code> <a href="https://github.com/yylo-dev/yylo?utm_source=ai-coding-landscape" target="_blank">YYLO</a> - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and the merge queue owns risk-based review. MIT, on npm as @yylo/cli </code></p>
 
 
 <br /><br />
