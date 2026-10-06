@@ -1,4 +1,4 @@
-# AI Coding Landscape  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/ai-coding-landscape)  ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/ai-coding-landscape.svg)   
+# AI Coding Landscape  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/AI-Coding-Landscape) ![Last Commit](https://img.shields.io/github/last-commit/joylarkin/ai-coding-landscape.svg)   
 The 2026 AI Coding Landscape - Coding models, agents, CLIs, IDEs, AI app builders, devtools, and more.  
 
 A work in progress... discovering the most recent developments in AI coding.  
