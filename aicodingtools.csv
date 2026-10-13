@@ -1,7 +1,7 @@
 Category,Name,URL,Description
 AI Coding Agents/CLI Tools,Claude Code,https://claude.com/product/claude-code?utm_source=ai-coding-landscape,"Anthropic's coding agent for the terminal, desktop, and Web. Runs Opus 5.5, Sonnet 5.5, and Fable 5.1; supports subagents, agent teams, skills, hooks, and a plugin marketplace"
 AI Coding Agents/CLI Tools,OpenAI Codex,https://openai.com/codex/?utm_source=ai-coding-landscape,"OpenAI's coding agent for app, CLI, IDE, and Web, powered by GPT-6.1 Sol by default; DevDay 2026 (September 29) added Codex Cloud for reusable cloud environments across desktop, Web, and mobile, a refreshed CLI with voice control and an /agents view, and an Ultrafast speed tier"
-AI Coding Agents/CLI Tools,Muse Code,https://developer.meta.com/ai/products/muse-code/?utm_source=ai-coding-landscape,"Meta's first terminal coding agent (beta, August 2026), launched on Muse Spark 1.2 and now running Muse Spark 1.3; persistent async background subagents and bundled /plan, /grill, and /goal skills; macOS and Linux, one-line install"
+AI Coding Agents/CLI Tools,Muse Code,https://developer.meta.com/ai/products/muse-code/?utm_source=ai-coding-landscape,"Meta's first terminal coding agent (beta, August 2026), launched on Muse Spark 1.2 and now running Muse Wonder (October 2026), with Muse Wonder Full for subscribers; persistent async background subagents and bundled /plan, /grill, and /goal skills; macOS and Linux, one-line install"
 AI Coding Agents/CLI Tools,GitHub Copilot,https://github.com/features/copilot?utm_source=ai-coding-landscape,Pair-programming assistant
 AI Coding Agents/CLI Tools,Gemini Code Assist,https://codeassist.google/?utm_source=ai-coding-landscape,Google AI coding assistant
 AI Coding Agents/CLI Tools,Jules,https://jules.google/?utm_source=ai-coding-landscape,Google Asynchronous Coding Agent
@@ -51,7 +51,7 @@ Desktop IDEs,Xcode,https://developer.apple.com/xcode/?utm_source=ai-coding-lands
 Desktop IDEs,"Eclipse, NetBeans",https://www.eclipse.org/eclipseide/?utm_source=ai-coding-landscape,
 Desktop IDEs,Atom,https://atom-editor.cc/?utm_source=ai-coding-landscape,Atom community fork
 Desktop IDEs,Blackbox IDE,https://www.blackbox.ai/?utm_source=ai-coding-landscape,
-Cloud & AI-Powered IDEs,Google Antigravity,https://antigravity.google/?utm_source=ai-coding-landscape,"Agentic development platform; Antigravity 2.0 (I/O 2026) co-developed with Gemini 3.5 Flash, includes new SDK and Google Workspace integration"
+Cloud & AI-Powered IDEs,Google Antigravity,https://antigravity.google/?utm_source=ai-coding-landscape,"Agentic development platform; Antigravity 2.0 (I/O 2026) co-developed with Gemini 3.5 Flash, includes new SDK and Google Workspace integration; Gemini 4 Argon available to Google AI Ultra subscribers since October 13, 2026"
 Cloud & AI-Powered IDEs,Cursor,https://cursor.com/?utm_source=ai-coding-landscape,"AI-first VS Code fork; Cursor 3 (April 2026) replaces Composer sidebar with full-screen Agents Window for parallel multi-agent execution across local/cloud/SSH/worktrees, adds Design Mode and Composer 2 model"
 Cloud & AI-Powered IDEs,Windsurf,https://windsurf.com/?utm_source=ai-coding-landscape,"Agentic IDE acquired by Cognition (Dec 2025, ~$250M); Windsurf 2.0 (April 2026) adds Agent Command Center, Spaces, and Devin Cloud integration; Wave 13 brought free SWE-1.5"
 Cloud & AI-Powered IDEs,Zed,https://zed.dev/?utm_source=ai-coding-landscape,High-performance Rust editor with AI chat
