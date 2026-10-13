@@ -364,21 +364,14 @@ OR
 
 
 
-
-
-<br /> <br /> <br /> <br />
-
-
 <h2 id="ai-coding-models"><code>Coding Model Timeline (foundation / open‑weight / frontier)</code>
 </h2>
 
 <p><code>Noteworthy releases, some entries may be updated model versions or model families.</code></p>
 
 
-
 <br /><br />
 <h3><code>October 2026</code></h3>
-
 
 <p><code> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/?utm_source=ai-coding-landscape" target="_blank">Gemini 4 Argon</a> - Google DeepMind, announced September 30, 2026 for trusted cyber defenders through Google's Fairwind Program, then generally available October 13; Google's new frontier model for real-world coding, enterprise knowledge work, and cyber defense; raises the single-response output limit from 64K to 1M tokens; new state of the art on DeepSWE v1.1 at 77.9%, ahead of Claude Opus 5.5 (74.2%) and GPT-6 Astra (74.1%), though it trails both on Terminal-Bench 4.0 at 57.4%; ties for first on CWE-bench v1 at 68% and ranks #1 on the Vals Index; available through the Gemini API in Google AI Studio, in Google Antigravity for Google AI Ultra subscribers, and in the Gemini app for Ultra and Pro subscribers; introductory pricing of $2/$10 per million input/output tokens, rising to $4/$20 when the introductory period ends </code></p>
 
