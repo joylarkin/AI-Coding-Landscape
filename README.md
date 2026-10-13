@@ -50,7 +50,7 @@ OR
 
 <p><code> <a href="https://claude.com/product/claude-code?utm_source=ai-coding-landscape" target="_blank">Claude Code</a> - Anthropic's coding agent for the terminal, desktop, and Web. Runs Opus 5.5, Sonnet 5.5, and Fable 5.1; supports subagents, agent teams, skills, hooks, and a plugin marketplace</code></p>
 <p><code> <a href="https://openai.com/codex/?utm_source=ai-coding-landscape" target="_blank">OpenAI Codex</a> - OpenAI's coding agent for app, CLI, IDE, and Web, powered by GPT-6.1 Sol by default; DevDay 2026 (September 29) added Codex Cloud for reusable cloud environments across desktop, Web, and mobile, a refreshed CLI with voice control and an /agents view, and an Ultrafast speed tier </code></p>
-<p><code> <a href="https://developer.meta.com/ai/products/muse-code/?utm_source=ai-coding-landscape" target="_blank">Muse Code</a> - Meta's first terminal coding agent (beta, August 2026), launched on Muse Spark 1.2 and now running Muse Spark 1.3; persistent async background subagents and bundled /plan, /grill, and /goal skills; macOS and Linux, one-line install </code></p>
+<p><code> <a href="https://developer.meta.com/ai/products/muse-code/?utm_source=ai-coding-landscape" target="_blank">Muse Code</a> - Meta's first terminal coding agent (beta, August 2026), launched on Muse Spark 1.2 and now running Muse Wonder (October 2026), with Muse Wonder Full for subscribers; persistent async background subagents and bundled /plan, /grill, and /goal skills; macOS and Linux, one-line install </code></p>
 <p><code> <a href="https://github.com/features/copilot?utm_source=ai-coding-landscape" target="_blank">GitHub Copilot</a> - Pair-programming assistant </code></p>
 <p><code> <a href="https://codeassist.google/?utm_source=ai-coding-landscape" target="_blank">Gemini Code Assist</a> - Google AI coding assistant </code></p>
 <p><code> <a href="https://jules.google/?utm_source=ai-coding-landscape" target="_blank">Jules</a> - Google Asynchronous Coding Agent </code></p>
@@ -72,6 +72,7 @@ OR
 <p><code> <a href="https://www.codebuff.com/?utm_source=ai-coding-landscape" target="_blank">Codebuff</a> - Works in your terminal to help you write and deeply understand your code </code></p>
 <p><code> <a href="https://www.cto.new/?utm_source=ai-coding-landscape" target="_blank">CTO.new</a> - Completely free AI code agent </code></p>
 <p><code> <a href="https://www.kimi.com/coding/docs/en/kimi-cli.html?utm_source=ai-coding-landscape" target="_blank">Kimi-CLI</a> - A new CLI agent that can help you with your software development tasks and terminal operations </code></p>
+
 <p><code> <a href="https://antigravity.google?utm_source=ai-coding-landscape" target="_blank">Antigravity CLI</a> - Google's new terminal agent that replaced Gemini CLI at I/O 2026; Gemini 3-backed, async multi-agent workflows, SDK for custom agents </code></p>
 <p><code> <a href="https://cursor.com/cli?utm_source=ai-coding-landscape" target="_blank">Cursor CLI</a> - Cursor's terminal agent launched January 2026, includes Cloud Handoff between local and cloud </code></p>
 
@@ -122,7 +123,7 @@ OR
 
 <h3 id="ai-ides"><code>Cloud & AI‑Powered IDEs</code></h3>
 
-<p><code> <a href="https://antigravity.google/?utm_source=ai-coding-landscape" target="_blank">Google Antigravity</a> - Agentic development platform; Antigravity 2.0 (I/O 2026) co-developed with Gemini 3.5 Flash, includes new SDK and Google Workspace integration </code></p>
+<p><code> <a href="https://antigravity.google/?utm_source=ai-coding-landscape" target="_blank">Google Antigravity</a> - Agentic development platform; Antigravity 2.0 (I/O 2026) co-developed with Gemini 3.5 Flash, includes new SDK and Google Workspace integration; Gemini 4 Argon available to Google AI Ultra subscribers since October 13, 2026 </code></p>
 <p><code> <a href="https://cursor.com/?utm_source=ai-coding-landscape" target="_blank">Cursor</a> - AI-first VS Code fork; Cursor 3 (April 2026) replaces Composer sidebar with full-screen Agents Window for parallel multi-agent execution across local/cloud/SSH/worktrees, adds Design Mode and Composer 2 model </code></p>
 <p><code> <a href="https://windsurf.com/?utm_source=ai-coding-landscape" target="_blank">Windsurf</a> - Agentic IDE acquired by Cognition (Dec 2025, ~$250M); Windsurf 2.0 (April 2026) adds Agent Command Center, Spaces, and Devin Cloud integration; Wave 13 brought free SWE-1.5 </code></p>
 <p><code> <a href="https://zed.dev/?utm_source=ai-coding-landscape" target="_blank">Zed</a> - High-performance Rust editor with AI chat </code></p>
@@ -361,15 +362,20 @@ OR
 
 <br /> <br /> <br /> <br />
 
+
+
 <h2 id="ai-coding-models"><code>Coding Model Timeline (foundation / open‑weight / frontier)</code>
 </h2>
 
 <p><code>Noteworthy releases, some entries may be updated model versions or model families.</code></p>
 
 
-
 <br /><br />
 <h3><code>October 2026</code></h3>
+
+<p><code> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/?utm_source=ai-coding-landscape" target="_blank">Gemini 4 Argon</a> - Google DeepMind, announced September 30, 2026 for trusted cyber defenders through Google's Fairwind Program, then generally available October 13; Google's new frontier model for real-world coding, enterprise knowledge work, and cyber defense; raises the single-response output limit from 64K to 1M tokens; new state of the art on DeepSWE v1.1 at 77.9%, ahead of Claude Opus 5.5 (74.2%) and GPT-6 Astra (74.1%), though it trails both on Terminal-Bench 4.0 at 57.4%; ties for first on CWE-bench v1 at 68% and ranks #1 on the Vals Index; available through the Gemini API in Google AI Studio, in Google Antigravity for Google AI Ultra subscribers, and in the Gemini app for Ultra and Pro subscribers; introductory pricing of $2/$10 per million input/output tokens, rising to $4/$20 when the introductory period ends </code></p>
+
+<p><code> <a href="https://research.meta.ai/blog/muse-wonder?utm_source=ai-coding-landscape" target="_blank">Muse Wonder</a> - Meta Superintelligence Labs, October 12, 2026; Meta's new frontier model family for personal and professional agents, memory, and coding, previously code-named Watermelon and trained on Meta's gigawatt-scale Prometheus data center; trained to try other approaches on long-running tasks instead of stalling; Meta reports the larger Muse Wonder Full at 79% on DeepSWE v1.1, ahead of Gemini 4 Argon at 77.9%, in its own testing; 1M-token context; $4/$20 per million input/output tokens with cached input at $0.20; available through Muse Code and the Meta Model API, with Muse Wonder Full limited to Muse Code subscribers </code></p>
 
 <p><code> <a href="https://mistral.ai/news/mistral-large-4/?utm_source=ai-coding-landscape" target="_blank">Mistral Large 4</a> - Mistral AI, October 6, 2026 (API preview); open-weight, natively multimodal MoE with 1.05T total / 52B active parameters and a 1.6B vision encoder, trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters; 49.8% on the Artificial Analysis Coding Agent Index, ahead of DeepSeek V4 Pro (0813) and Qwen3.8-Max; ranks in the top five on the Artificial Analysis Cyber Index; $0.68/$2.09 per million input/output tokens at launch; weights due October 27, and Mistral says the preview benchmarks may change before then </code></p>
 
@@ -379,8 +385,6 @@ OR
 
 <br /><br />
 <h3><code>September 2026</code></h3>
-
-<p><code> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=ai-coding-landscape" target="_blank">Gemini 4 Argon</a> - Google DeepMind, September 30, 2026; Google's new frontier model for real-world coding, enterprise knowledge work, and cyber defense; raises the single-response output limit from 64K to 1M tokens; new state of the art on DeepSWE v1.1 at 77.9%, ahead of Claude Opus 5.5 (74.2%) and GPT-6 Astra (74.1%), though it trails both on Terminal-Bench 4.0 at 57.4%; ties for first on CWE-bench v1 at 68% and leads the Vals Index; rolling out first to trusted cyber defenders through Google's Fairwind Program, with paid API customers and Google AI Ultra to follow; introductory pricing of $2/$10 per million input/output tokens, with cached input 95% off </code></p>
 
 <p><code> <a href="https://openai.com/index/introducing-gpt-6-1-sol/?utm_source=ai-coding-landscape" target="_blank">GPT-6.1 Sol</a> - OpenAI, September 29, 2026, announced at DevDay; an upgrade to GPT-6 Sol that nearly matches GPT-6 Astra on agentic coding, computer use, and professional work at one-fifth of Astra's price; 75.2% on DeepSWE v1.1 at high effort for $0.65 per task, against Astra's best of 74.1% at $4.43; 54.0% on Terminal-Bench 4.0 at xhigh effort; 1.05M-token context and 128K max output; cuts responses with factual errors from 11.4% to 7.7%; the new default model in Codex and rolling out across GitHub Copilot; $2/$10 per million input/output tokens, with cached input at $0.10 </code></p>
 
