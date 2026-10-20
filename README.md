@@ -229,6 +229,7 @@ OR
 <p><code> <a href="https://www.honeycomb.io?utm_source=ai-coding-landscape" target="_blank">Honeycomb MCP</a> - Observability platform with expanded MCP integrations across AI coding tools (March 2026) </code></p>
 <p><code> <a href="https://www.agentops.ai?utm_source=ai-coding-landscape" target="_blank">AgentOps</a> - YC W24 open-source agent engineering platform; session replay, cost tracking, failure detection across CrewAI, LangGraph, OpenAI Agents SDK </code></p>
 <p><code> <a href="https://www.sim.ai?utm_source=ai-coding-landscape" target="_blank">Sim</a> - YC X25 ($7M Series A) open-source (Apache 2.0) visual drag-and-drop agent workflow builder; 27K+ GitHub stars; AI-native alternative to n8n and Langflow </code></p>
+<p><code> <a href="https://www.codealong.com/?utm_source=ai-coding-landscape" target="_blank">Codealong</a> - Free, open-source (Apache 2.0) Mac app that tracks every Claude Code, Codex, OpenCode, Antigravity, and Cursor session on your machine, grouped by repo, worktree, and PR; a floating bar for approvals and replies; plan usage per account; reads the records each agent already writes, no account or API key </code></p>
 
 
 
