@@ -176,6 +176,7 @@ OR
 <p><code> <a href="https://apps.apple.com/us/app/hivemind-ai-chat-coding/id6446332488?utm_source=ai-coding-landscape" target="_blank">Hivemind</a> - The fastest & easiest way to chat & code with any AI in one app </code></p>
 <p><code> <a href="https://bloom.diy/?utm_source=ai-coding-landscape" target="_blank">Bloom</a> - YC backed, go from idea to native mobile app on your phone without writing a single line of code </code></p>
 <p><code> <a href="https://vibecodego.com/?utm_source=ai-coding-landscape" target="_blank">Vibe Code Go</a> - YC backed, code from your phone, a mobile app for software engineers </code></p>
+<p><code> <a href="https://newly.app/" target="_blank">Newly</a> - Build native iOS and Android apps from natural-language prompts. </code></p>
 
 
 
