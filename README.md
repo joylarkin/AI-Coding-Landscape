@@ -277,6 +277,8 @@ OR
 
 <p><code> <a href="https://aider.chat/docs/leaderboards/?utm_source=ai-coding-landscape" target="_blank">Aider</a> - Aider polyglot coding leaderboard </code></p>
 
+<p><code> <a href="https://vibetoolrank.com/?utm_source=ai-coding-landscape" target="_blank">VibeToolRank</a> - Independent hands-on tests of AI coding tools on the same standard tasks, with scores, run counts, test dates, and free-tier limits </code></p>
+
 
 <br /><br />
 <h4><p><code><strong>General Coding & Model Rankings</strong></code></p></h4>
