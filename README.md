@@ -71,6 +71,7 @@ OR
 <p><code> <a href="https://www.kimi.com/code?utm_source=ai-coding-landscape" target="_blank">Kimi Code</a> - Moonshot AI's coding agent for the terminal and desktop (formerly Kimi CLI), running Kimi K3.1 Pro since October 2026; can import recent Claude Code and Codex sessions </code></p>
 <p><code> <a href="https://antigravity.google?utm_source=ai-coding-landscape" target="_blank">Antigravity CLI</a> - Google's terminal agent that replaced Gemini CLI at I/O 2026; runs Gemini 4 Argon for Google AI Ultra and Pro subscribers since October 2026, with async multi-agent workflows and an SDK for custom agents </code></p>
 <p><code> <a href="https://cursor.com/cli?utm_source=ai-coding-landscape" target="_blank">Cursor CLI</a> - Cursor's terminal agent launched January 2026, includes Cloud Handoff between local and cloud </code></p>
+<p><code> <a href="https://www.openmel.dev?utm_source=ai-coding-landscape" target="_blank">Mel</a> - The agentic terminal: a multi-agent, multi-model AI terminal for macOS, Windows, Linux and VS Code with configurable approvals; free with your own API key, Pro from $20/month (proprietary) </code></p>
 
 
 
