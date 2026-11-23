@@ -198,6 +198,7 @@ OR
 
 <h3 id="ai-devtools"><code>Other Useful AI DevTools</code></h3>
 
+<p><code> <a href="https://tomatio.ai/?utm_source=ai-coding-landscape" target="_blank">TomaTío</a> - Free, open-source (GPL) home for your AI context: memory, decisions, and team knowledge in one place you control, which Claude, ChatGPT, Grok, Cursor, and your agents connect to over MCP; runs on your own computer or as a WordPress plugin, and people approve what becomes official (public preview) </code></p>
 <p><code> <a href="https://ollama.com/?utm_source=ai-coding-landscape" target="_blank">Ollama</a> - Chat & build with open models, locally or in Ollama's cloud; raised $65M in July 2026 with nearly 9M users </code></p>
 <p><code> <a href="https://lmstudio.ai/?utm_source=ai-coding-landscape" target="_blank">LM Studio</a> - Run gpt-oss, Qwen, Gemma, DeepSeek on your computer </code></p>
 <p><code> <a href="https://openwebui.com/?utm_source=ai-coding-landscape" target="_blank">Open WebUI</a> - Self-hosted AI platform designed to operate entirely offline </code></p>
@@ -215,7 +216,6 @@ OR
 <p><code> <a href="https://vibetunnel.sh/?utm_source=ai-coding-landscape" target="_blank">Vibetunnel</a> - VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere </code></p>
 <p><code> <a href="https://www.coderabbit.ai?utm_source=ai-coding-landscape" target="_blank">CodeRabbit</a> - AI code reviews - cut code review time & bugs in half </code></p>
 <p><code> <a href="https://gigamind.dev/context?utm_source=ai-coding-landscape" target="_blank">Giga AI</a> - Giga's context engineering improves quality and understanding — so your AI works right the first time, and you build faster </code></p>
-<p><code> <a href="https://tomatio.ai/?utm_source=ai-coding-landscape" target="_blank">TomaTío</a> - Free, open-source (GPL) home for your AI context: memory, decisions, and team knowledge in one place you control, which Claude, ChatGPT, Grok, Cursor, and your agents connect to over MCP; runs on your own computer or as a WordPress plugin, and people approve what becomes official (public preview) </code></p>
 <p><code> <a href="https://github.com/gastownhall/gastown?utm_source=ai-coding-landscape" target="_blank">Gas Town</a> - Steve Yegge's multi-agent workspace manager for Claude Code and other agents; track work with convoys, sling to agents; Yegge's newer <a href="https://github.com/gastownhall/gascity?utm_source=ai-coding-landscape" target="_blank">Gas City</a> (April 2026) is an SDK for building your own multi-agent orchestrators </code></p>
 <p><code> <a href="https://github.com/anthropics/claude-plugins-official?utm_source=ai-coding-landscape" target="_blank">Claude Code Plugin Marketplace</a> - Anthropic's official directory; plugins bundle skills, MCP servers, hooks, and slash commands. SKILL.md format adopted by OpenAI Codex CLI as an open standard </code></p>
 <p><code> <a href="https://github.com/anthropics/skills?utm_source=ai-coding-landscape" target="_blank">Anthropic Agent Skills</a> - Public Anthropic skills repo for PDF, Excel, PowerPoint, Word, MCP generation, and more </code></p>
